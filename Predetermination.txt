@@ -1,0 +1,112 @@
+Demonstrating Predetermination
+
+Explanatory Overview of the Algorithm of Babel:
+https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s
+
+Interactive Technology:
+https://libraryofbabel.info/
+
+Example Codebase:
+https://github.com/louis-e/LibraryOfBabel-Python/tree/main
+
+Powerball Ruleset (A):
+
+Powerball White Balls (PWB) = 1 through 69
+Red Powerball (RPB) = 1 through 26
+Weekly Schedule = Monday, Wednesday, Saturday
+Total Annual Drawings = 156
+
+Mega Millions Ruleset (B):
+
+Mega Million White Balls (MMWB) = 1 through 70
+Gold Mega Ball (GMB) = 1 through 24
+Weekly Schedule = Tuesday, Friday
+Total Annual Drawings = 104
+
+Total Annual PB & MM Drawings = 260
+Total PB & MM Drawings Over 10 Years = 2,600
+
+Weekly Sequence Ruleset (Repeated Indefinitely):
+
+A, B, A, B, A
+
+Numeric Sequencing Ruleset for Each Week (Repeated Indefinitely):
+
+PWB, PWB, PWB, PWB, PWB, RPB, MMWB, MMWB, MMWB, MMWB, MMWB, GMB, PWB, PWB, PWB, PWB, PWB, RPB, MMWB, MMWB, MMWB, MMWB, MMWB, GMB, PWB, PWB, PWB, PWB, PWB, RPB
+
+Numeric Sequencing Ruleset for Each Week Depicted By Range (Repeated Indefinitely):
+
+1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 24, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 24, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26
+
+Maximum Character Rulesets to Inform Search and Filtering Algorithms:
+
+Comma delimiter is appended to the end of each numeric word.
+
+1 = one = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
+2 = two = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
+3 = three = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
+4 = four = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
+5 = five = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
+6 = six = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
+7 = seven = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
+8 = eight = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
+9 = nine = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
+10 = ten = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
+11 = eleven = 6 characters + comma delimiter = 7 total characters for this specific numeric word sequence
+12 = twelve = 6 characters + comma delimiter = 7 total characters for this specific numeric word sequence
+13 = thirteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
+14 = fourteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
+15 = fifteen = 7 characters + comma delimiter = 9 total characters for this specific numeric word sequence
+16 = sixteen = 7 characters + comma delimiter = 9 total characters for this specific numeric word sequence
+17 = seventeen = 9 characters + comma delimiter = 11 total characters for this specific numeric word sequence
+18 = eighteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
+19 = nineteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
+20 = twenty = 6 characters + space between numeric words + comma delimiter = 8 total characters for this specific numeric word sequence
+21 - 29 = 11 - 13 total characters for this specific numeric word sequence including comma delimiter and hyphen
+30 = thirty = 6 characters + space between numeric words + comma delimiter = 8 total characters for this specific numeric word sequence
+31 - 39 = 11 - 13 total characters for this specific numeric word sequence including comma delimiter and hyphen
+40 = forty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
+41 - 49 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
+50 = fifty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
+51 - 59 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
+60 = sixty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
+61 - 69 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
+70 = seventy = 7 characters + comma delimiter = 8 total characters for this specific numeric word sequence
+
+Maximum Possible Characters in Sequence A:
+13 + 13 + 13 + 13 + 13 + 13 = 78
+
+Maximum Possible Characters in Sequence B:
+13 + 13 + 13 + 13 + 13 + 13 = 78
+
+Minimum Possible Characters in Sequence A:
+3 + 3 + 3 + 3 + 4 + 4 = 20
+
+Minimum Possible Characters in Sequence B:
+3 + 3 + 3 + 3 + 4 + 4 = 20
+
+Minimum Characters Necessary for Precision in Search Handling for 10 Years of Predictions:
+78 * 2600 = 202,800
+
+Historical data for search in chart format (could go back further for greater precision):
+
+Mega Million	09/23/25	To Be Determined		
+Power Ball	09/22/25	3,29,42,46,59,15
+Power Ball	09/20/25	15,29,64,66,67,4
+Mega Million	09/19/25	2,22,27,42,58,8
+Power Ball	09/17/25	7,30,50,54,62,20
+Mega Million	09/16/25	10,14,34,40,43,5
+
+Historical data as primer for query in raw text format (the value to be plugged into the search function to calibrate with predetermination):
+
+ten, fourteen, thirty four, forty, forty three, five, seven, thirty, fifty, fifty four, sixty two, twenty, two, twenty two, twenty seven, forty two, fifty eight, eight, fifteen, twenty nine, sixty four, sixty six, sixty seven, four, three, twenty nine, forty two, forty six, fifty nine, fifteen
+
+Feature Solutioning for the Algorithm of Babel:
+1) Refactor character search limitation from 3,200 to 202,800
+2) Implement search function that aggregates all results matching future sequence requirements, and matches existing historical data
+3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements in continuity
+
+The underlying API that serves our search and filtering functions for the Infinite Wealth Cheat Code can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB, or any equivalent document data format technology. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, like React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. A hybrid system of quantum computation and classical computation will successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for final solution.
+
+Strategy (Possibly Unnecessary):
+Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Purchase winning lottery tickets as specified by precision in predictive data.
