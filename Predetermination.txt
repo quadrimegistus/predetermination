@@ -9,6 +9,11 @@ https://libraryofbabel.info/
 Example Codebase:
 https://github.com/louis-e/LibraryOfBabel-Python/tree/main
 
+The most up-to-date version of this document is kept at:
+https://github.com/quadrimegistus/predetermination
+
+Querying the Algorithm of Babel With Search and Filtering Algorithms that Demonstrate Predetermination
+
 Powerball Ruleset (A):
 
 Powerball White Balls (PWB) = 1 through 69
@@ -108,5 +113,8 @@ Feature Solutioning for the Algorithm of Babel:
 
 The underlying API that serves our search and filtering functions for the Infinite Wealth Cheat Code can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB, or any equivalent document data format technology. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, like React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. A hybrid system of quantum computation and classical computation will successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for final solution.
 
+The underlying premise, patterns and strategy are true for all Divine Games, not just the Powerball and Mega Millions lotteries. All Casinos will be victims. Localize the Algorithm of Babel queries to the specific game where you wish to unveil predetermination and you will know victory for that game.
+
 Strategy (Possibly Unnecessary):
+
 Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Purchase winning lottery tickets as specified by precision in predictive data.
