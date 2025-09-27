@@ -111,12 +111,12 @@ Feature Solutioning for the Algorithm of Babel:
 2) Implement search function that aggregates all results matching future sequence requirements, and matches existing historical data
 3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements in continuity
 
-The underlying API that serves our search and filtering functions for the Infinite Wealth Cheat Code can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB, or any equivalent document data format technology. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, like React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. A hybrid system of quantum computation and classical computation will successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for final solution.
+The underlying API that serves our search and filtering functions for this Infinite Wealth Cheat Code can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. A hybrid system of quantum computation and classical computation can successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for the production environment solution.
 
 Strategy:
 
 Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Purchase winning lottery tickets as specified by precision in predictive data.
 
-Meta Predetermination:
+Meta Predetermination and Concept Extension:
 
 The underlying premise, patterns and strategy are true for all Divine Games, not just the Powerball and Mega Millions lotteries. All Casinos will be victims. Localize the Algorithm of Babel queries to the specific game where you wish to unveil predetermination and you will know victory for that game.
