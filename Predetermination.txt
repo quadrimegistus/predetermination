@@ -12,7 +12,7 @@ https://github.com/louis-e/LibraryOfBabel-Python/tree/main
 The most up-to-date version of this document is kept at:
 https://github.com/quadrimegistus/predetermination
 
-Querying the Algorithm of Babel With Search and Filtering Algorithms that Demonstrate Predetermination
+Concept overview: All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows.
 
 Powerball Ruleset (A):
 
@@ -120,4 +120,5 @@ Prune previously returned result data by performing filtering on data at each lo
 Meta Predetermination and Concept Extension:
 
 The underlying premise, patterns and strategy are true for all Divine Games, not just the Powerball and Mega Millions lotteries. All Casinos will be victims. Localize the Algorithm of Babel queries to the specific game where you wish to unveil predetermination and you will know victory for that game.
+
 
