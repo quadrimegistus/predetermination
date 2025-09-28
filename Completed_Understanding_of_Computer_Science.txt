@@ -1,5 +1,11 @@
 War Strategy: Completed Understanding of Computer Science
 
+Tier Zero
+
+Prove or falsify the GME thesis utilizing Predetermination:
+
+https://github.com/quadrimegistus/predetermination/blob/main/Predetermination.txt
+
 Phase One
 
 Software Development Services and the Divine Thought of Automation. We eliminate the need for Software Engineers as a Software Development Services company specializing in Narrow Scoped Artificial Intelligence that performs the work of Software Engineers, Product Owners, Scrum Masters and Project Managers.
@@ -74,3 +80,4 @@ Evolve financial services and banking to states of competency.
 Virus and disease eradication.
 Conservation and sanctuary efforts.
 Altruistic and humanitarian efforts.
+
