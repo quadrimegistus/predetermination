@@ -123,7 +123,8 @@ The underlying premise, patterns and strategy are true for all Divine Games, not
 
 Predetermination Use Case Strategy (Dyson Sphere & Dyson Swarm):
 
-https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt
+https://github.com/quadrimegistus/predetermination/blob/main/Completed_Understanding_of_Computer_Science.txt
+
 
 
 
