@@ -112,7 +112,7 @@ Feature Solutioning for the Algorithm of Babel:
 3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements of demonstrating predetermination
 4) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor"
 
-The underlying API that serves our search and filtering functions for this Divine Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. A hybrid system of quantum computation and classical computation can successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for the production environment solution.
+The underlying API that serves our search and filtering functions for this Divine Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. The purpose of the quantum computational wrapper software would be mass filtering of data that falls under the category of "not these possibilities" in our algorithm, and this is for what the computational type is purposed, narrowing a 10^5000 value to a manageable state. A hybrid system of quantum computation and classical computation can successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for the production environment solution.
 
 Strategy:
 
@@ -128,6 +128,7 @@ https://github.com/quadrimegistus/predetermination/blob/main/Completed_Understan
 
 I am this identity in this reality:
 https://www.facebook.com/wes.hatley/
+
 
 
 
