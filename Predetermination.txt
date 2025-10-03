@@ -12,7 +12,7 @@ https://github.com/louis-e/LibraryOfBabel-Python/tree/main
 The most up-to-date version of this document is kept at:
 https://github.com/quadrimegistus/predetermination
 
-Concept overview: All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows. One, if not multiple, language configurations in the Algorithm of Babel is precisely predicting all winning Powerball & Mega Million drawing numbers up through present moment and through the future. This premise is demonstrated irrefutably as true by the math. How do we query the Algorithm of Babel to unveil the predetermination within the algorithm?
+Concept overview: All possible configurations of language already exist. All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows. One, if not multiple, language configurations in the Algorithm of Babel is precisely predicting all winning Powerball & Mega Million drawing numbers up through present moment and through the future. This premise is demonstrated irrefutably as true by the math. How do we query the Algorithm of Babel to unveil the predetermination within the algorithm?
 
 Powerball Ruleset (A):
 
@@ -116,7 +116,7 @@ The underlying API that serves our search and filtering functions for this Divin
 
 Strategy:
 
-Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Localize all hardware performing computations - absolutely no cloud service providers. Keep hardware disconnected from internet aside from technology software updates. Protect the intellectual property. Protect the discovery. Purchase winning lottery tickets as specified by precision in predictive data.
+Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Localize all hardware performing computations - absolutely no cloud service providers. Keep hardware disconnected from internet aside from technology software updates. Protect the intellectual property. Protect the discovery. Purchase winning lottery tickets as specified by precision in predictive data. Predetermination will be privatized inside my LLC: 2DSE, or Two Dimensional Software Engineering. The control structure for 2DSE is 51% myself, 25% my ex, Athena, Sarah Mercedes Hentze Hatley, and 24% where Athena subdivides worthiness acknowledgement. Pay structure for Predetermination will be 50% profit sharing split between all employees, and 50% reinvested into the company to support the Completed Understanding of Computer Science linked below.
 
 Meta Predetermination and Concept Extension:
 
@@ -134,6 +134,7 @@ https://github.com/quadrimegistus/predetermination/blob/main/Completed_Understan
 
 I am this identity in this reality:
 https://www.facebook.com/wes.hatley/
+
 
 
 
