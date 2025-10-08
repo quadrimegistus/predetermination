@@ -114,6 +114,8 @@ Feature Solutioning for the Algorithm of Babel:
 
 The underlying API that serves our search and filtering functions for this Divine Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. The purpose of the quantum computational wrapper software would be mass filtering of data that falls under the category of "not these possibilities" in our algorithm, and this is for what the computational type is purposed, narrowing a 10^5000 value to a manageable state. A hybrid system of quantum computation and classical computation can successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for the production environment solution. Analysis to be performed would be calculating the necessary historical backfiller to integrate into the Search and Filtering algorithm to guarantee exceptional precision in next sequence data, example: <5 drawing purchases need be made to guarantee selection of predetermination.
 
+Language Algorithm + Search and Filtering Algorithm = Predetermination
+
 Strategy:
 
 Prune previously returned result data by performing filtering on data at each lottery draw date of the erroneous predictive data until all that remains is demonstrable precision in predictive data / predetermination. Localize all hardware performing computations - absolutely no cloud service providers. Keep hardware disconnected from internet aside from technology software updates. Protect the intellectual property. Protect the discovery. Purchase winning lottery tickets as specified by precision in predictive data. Predetermination will be privatized inside my LLC: 2DSE, or Two Dimensional Software Engineering. The control structure for 2DSE is 51% myself, 25% my ex, Athena, Sarah Mercedes Hentze Hatley, and 24% where Athena subdivides worthiness acknowledgement. Pay structure for Predetermination will be 50% profit sharing split between all employees, and 50% reinvested into the company to support the Completed Understanding of Computer Science linked below.
@@ -138,6 +140,7 @@ https://www.facebook.com/wes.hatley/
 I can be reached by e-mail, text or call to discuss predetermination.
 email: quadrimegistus@gmail.com
 phone: 1-704-692-0036
+
 
 
 
