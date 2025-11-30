@@ -30,7 +30,7 @@ This file depicts a small, incomplete example of chronological sequencing of bot
 
 [Raw Query Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt)
 
-This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
+This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search feature will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
 
 [Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
 
