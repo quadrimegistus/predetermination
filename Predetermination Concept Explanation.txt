@@ -14,7 +14,7 @@ https://github.com/quadrimegistus/predetermination
 
 Concept overview: All possible configurations of language already exist. All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 (using the short scale system, the number 10^5000 is called "quinquagintamillillion") Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows. One, if not multiple, language configurations in the Algorithm of Babel is precisely predicting all winning Powerball & Mega Million drawing numbers up through present moment and through the future. This premise is demonstrated irrefutably as true by the math. How do we query the Algorithm of Babel to unveil the Predetermination within the algorithm?
 
-Powerball Ruleset (A):
+Current Powerball Ruleset (A):
 
 Powerball White Balls (PWB) = 1 through 69
 Red Powerball (RPB) = 1 through 26
@@ -22,7 +22,7 @@ Weekly Schedule = Monday, Wednesday, Saturday
 Odds = 1 in 292,201,338
 Total Annual Drawings = 156
 
-Mega Millions Ruleset (B):
+Current Mega Millions Ruleset (B):
 
 Mega Million White Balls (MMWB) = 1 through 70
 Gold Mega Ball (GMB) = 1 through 24
@@ -144,6 +144,7 @@ https://www.facebook.com/wes.hatley/
 I can be reached by e-mail, text or call to discuss predetermination.
 email: quadrimegistus@gmail.com
 phone: 1-704-692-0036
+
 
 
 
