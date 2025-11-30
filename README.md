@@ -22,4 +22,4 @@ This file is an eample of what the Raw Query injected into the Algorithm of Babe
 
 [Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
 
-This file specifies precisely the works I will go perform with Predetermination.
+This file specifies precisely the works I will go perform with Predetermination and Automation as my weapons.
