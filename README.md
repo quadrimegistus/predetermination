@@ -2,6 +2,10 @@
 
 This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise - how to successfully demonstrate Predetermination by predicting winning lottery numbers utilizing the Algorithm of Babel (also called the Library of Babel).
 
+[Example From Forked Codebase](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
+
+A codebase fork, serving as an example of implementation yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation.
+
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
 This file is a completed compile of Mega Millions Historical Data from 05/17/02 to 11/28/25 with comma separated values in an ODS file format.
