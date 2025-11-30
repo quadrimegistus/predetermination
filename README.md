@@ -10,6 +10,10 @@ This 3rd Party YouTube video provides a decent high level explanation of the Alg
 
 # Solutioning the Implementation
 
+[Sequence Rulesets](https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt)
+
+This file specifies the rulesets by which the games in our sequence operate. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
+
 [Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
 A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Explanation. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for ten years of compliant data.
