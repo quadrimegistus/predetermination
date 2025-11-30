@@ -47,3 +47,13 @@ Technology will parse the comma separated values in the ODS files (and any necce
 # End Result
 
 Complete Search for perfect match. Receive one, or multiple, sequenced outputs of six numbers that will be foreknowledge of the forthcoming jackpot drawing for either lottery. Purchase tickets covering scope of output data. Repeat 5x a week.
+
+# Data Set Sources
+
+[Mega Millions Data Set from 2002 to Present](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
+
+[Powerball Data Set from 2010 to Present](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+
+[Powerball Data Set from 1992 to 2021](https://www.kaggle.com/datasets/nathennguyen/powerball-1992-to-current-year)
+
+
