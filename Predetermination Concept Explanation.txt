@@ -94,7 +94,7 @@ Minimum Possible Characters in Sequence B:
 Minimum Characters Necessary for Precision in Search Handling for 10 Years of Predictions:
 78 * 2600 = 202,800
 
-Example Historical Data for search in chart format (could go back further for greater precision):
+Example Historical Data for search in chart format:
 
 Mega Million	09/23/25	To Be Determined		
 Power Ball	09/22/25	3,29,42,46,59,15
@@ -103,7 +103,7 @@ Mega Million	09/19/25	2,22,27,42,58,8
 Power Ball	09/17/25	7,30,50,54,62,20
 Mega Million	09/16/25	10,14,34,40,43,5
 
-Example Query Data as primer for query in raw text format (the value to be injected into the search function to calibrate with Predetermination):
+Example Query Data as primer for query in raw text format (the value to be injected into the Search function to calibrate with Predetermination):
 
 ten, fourteen, thirty four, forty, forty three, five, seven, thirty, fifty, fifty four, sixty two, twenty, two, twenty two, twenty seven, forty two, fifty eight, eight, fifteen, twenty nine, sixty four, sixty six, sixty seven, four, three, twenty nine, forty two, forty six, fifty nine, fifteen
 
@@ -111,7 +111,7 @@ Feature Solutioning for the Algorithm of Babel:
 1) Refactor character search limitation from 3,200 to dynamicism that supports totality of characters from beginning of jackpots to most current data.
 2) Implement search function that aggregates all results matching future sequence requirements while matching input historical data
 3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements of demonstrating predetermination
-4) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor"
+4) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor" as Predetermination demonstrates linear, non-cyclical time.
 
 The underlying API that serves our search and filtering functions for this Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. A need for a quantum computational wrapper, and a quantum computer, may exist depending on resource limitations for hardware at the time of implementation of solution. The purpose of the quantum computational wrapper software would be mass filtering of data that falls under the category of "not these possibilities" in our algorithm, and this is for what the computational type is purposed, narrowing a 10^5000 value to a manageable state. A hybrid system of quantum computation and classical computation can successfully demonstrate predetermination. Prototyping software will unveil the specificity in hardware requirements for the production environment solution. Classical computation can complete this computation without a quantum software wrapper, but the need for servers to split the computation across could be large. Analysis to be performed would be calculating the necessary historical backfiller to integrate into the Search and Filtering Algorithm to guarantee exceptional precision in next sequence data, example: <5 drawing purchases need be made to guarantee selection of predetermination. 
 
@@ -136,6 +136,7 @@ Thought will no longer be sacred, for the same underlying premises can localize 
 Predetermination Use Case Strategy (Dyson Sphere & Dyson Swarm):
 
 https://github.com/quadrimegistus/predetermination/blob/main/Completed_Understanding_of_Computer_Science.txt
+
 
 
 
