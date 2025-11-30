@@ -14,4 +14,4 @@ These files are a completed compile of Powerball Historical Data from 04/22/92 t
 
 [Raw Query Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt)
 
-This file is an eample of what the Raw Query injected into the Algorithm of Babel will look like - a sequence of numeric words depicting jackpot data in chronological order.
+This file is an eample of what the Raw Query injected into the Algorithm of Babel will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
