@@ -17,7 +17,7 @@ Sequence Rulesets:
 
 https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt
 
-Short Example Historical Data for Search feature depicted in a chart format:
+Short Example of Historical Data for Search feature depicted in a chart format:
 
 Mega Million	09/23/25	To Be Determined		
 Power Ball	09/22/25	3,29,42,46,59,15
@@ -26,7 +26,7 @@ Mega Million	09/19/25	2,22,27,42,58,8
 Power Ball	09/17/25	7,30,50,54,62,20
 Mega Million	09/16/25	10,14,34,40,43,5
 
-Short Example Query Data as primer for Search feature in raw text format (the value to be injected into the Search function to calibrate with Predetermination):
+Short Example of Query Data as primer for the Search feature in raw text format (the value to be injected into the Search function to calibrate with Predetermination):
 
 ten, fourteen, thirty four, forty, forty three, five, seven, thirty, fifty, fifty four, sixty two, twenty, two, twenty two, twenty seven, forty two, fifty eight, eight, fifteen, twenty nine, sixty four, sixty six, sixty seven, four, three, twenty nine, forty two, forty six, fifty nine, fifteen
 
@@ -59,6 +59,7 @@ Thought will no longer be sacred, for the same underlying premises can localize 
 Predetermination Use Case Strategy (Dyson Sphere & Dyson Swarm):
 
 https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt
+
 
 
 
