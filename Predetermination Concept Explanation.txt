@@ -7,7 +7,7 @@ Interactive Technology:
 https://libraryofbabel.info/
 
 Example Codebase:
-https://github.com/louis-e/LibraryOfBabel-Python/tree/main
+https://github.com/quadrimegistus/AlgorithmOfBabel-Python
 
 The most up-to-date version of this document is kept at:
 https://github.com/quadrimegistus/predetermination
@@ -144,6 +144,7 @@ https://www.facebook.com/wes.hatley/
 I can be reached by e-mail, text or call to discuss predetermination.
 email: quadrimegistus@gmail.com
 phone: 1-704-692-0036
+
 
 
 
