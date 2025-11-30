@@ -11,3 +11,7 @@ This file is a completed compile of Mega Millions Historical Data from 05/17/02 
 [Powerball Historical Data 042292 to 100421](https://github.com/quadrimegistus/predetermination/blob/main/Powerball%20Historical%20Data%20042292%20to%20100421.ods)
 
 These files are a completed compile of Powerball Historical Data from 04/22/92 to 11/29/25 with comma separated values in an ODS file format.
+
+[Raw Query Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt)
+
+This file is an eample of what the Raw Query injected into the Algorithm of Babel will look like - a sequence of numeric words depicting jackpot data in chronological order.
