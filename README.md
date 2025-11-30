@@ -8,6 +8,10 @@ This file explains in non-programatic language the proof of concept and the over
 
 This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated.
 
+[Library of Babel](https://libraryofbabel.info/)
+
+This links to a user friendly implementation of the interactive technology depicted in the aforementioned 3rd Party video.
+
 # Solutioning the Implementation
 
 [Sequence Rulesets](https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt)
