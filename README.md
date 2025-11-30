@@ -2,6 +2,10 @@
 
 This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise - how to successfully demonstrate Predetermination by predicting winning lottery numbers utilizing the Algorithm of Babel (also called the Library of Babel).
 
+[Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
+
+This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated.
+
 [Example From Forked Codebase](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
 A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation.
