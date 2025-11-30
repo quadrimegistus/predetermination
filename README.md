@@ -8,11 +8,11 @@ This file explains in non-programatic language the proof of concept and the over
 
 This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated.
 
+# Solutioning the Implementation
+
 [Example From Forked Codebase](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
 A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation.
-
-# Solutioning the Implementation
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
