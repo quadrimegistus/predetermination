@@ -12,7 +12,7 @@ This 3rd Party YouTube video provides a decent high level explanation of the Alg
 
 [Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
-A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation.
+A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for ten years of compliant data.
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
@@ -38,7 +38,7 @@ This file specifies precisely the works I will go perform with Predetermination 
 
 # Completed Technology Overview
 
-Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation). Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files. Technology will convert jackpot numerals to numeric words and structure the numeric word placement in sequenced chronological order. Technology will inject the sequenced data into the Algorithm of Babel's Search feature. Technology will render the information of the perfect Search match to the user. Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate the perfection of Predetermination. Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure native to the Algorithm of Babel.
+Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation). Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files. Technology will convert jackpot numerals to numeric words and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from Sequenced Historical Data Example). Technology will inject the sequenced data into the Algorithm of Babel's refactored Search feature. Technology will render the information of the perfect Search match to the user. Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate the perfection of Predetermination. Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure native to the Algorithm of Babel.
 
 # End Result
 
