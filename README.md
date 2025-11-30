@@ -10,7 +10,7 @@ This 3rd Party YouTube video provides a decent high level explanation of the Alg
 
 # Solutioning the Implementation
 
-[Example From Forked Codebase](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
+[Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
 A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to the serve the use case detailed in the above Predetermination Concept Explanation.
 
