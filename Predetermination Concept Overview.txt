@@ -13,8 +13,9 @@ Concept overview: The Algorithm of Babel is a completed Language Distribution Al
 
 How do we query the Algorithm of Babel to unveil the Predetermination within the algorithm? We inject precise historical data in compliant formats and discard errant states of foreknowledge that do not follow the Sequence Rulesets, retaining only states of foreknowledge that are compliant with Sequence Rulesets.
 
-Minimum Characters Necessary for Precision in Search Handling for 10 Years of Predictions:
-78 * 2600 = 202,800
+Sequence Rulesets:
+
+https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt
 
 Example Historical Data for search in chart format:
 
@@ -58,6 +59,7 @@ Thought will no longer be sacred, for the same underlying premises can localize 
 Predetermination Use Case Strategy (Dyson Sphere & Dyson Swarm):
 
 https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt
+
 
 
 
