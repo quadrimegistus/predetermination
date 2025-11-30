@@ -11,85 +11,7 @@ https://github.com/quadrimegistus/AlgorithmOfBabel-Python
 
 Concept overview: The Algorithm of Babel is a completed Language Distribution Algorithm. All possible configurations of language already exist. All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 (using the short scale system, the number 10^5000 is called "quinquagintamillillion") Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows. One, if not multiple, configurations in the Algorithm of Babel is precisely predicting all winning Powerball & Mega Million drawing numbers up through present moment and into the future. This premise is demonstrated irrefutably as true by the math. 
 
-How do we query the Algorithm of Babel to unveil the Predetermination within the algorithm?
-
-Current Powerball Ruleset (A):
-
-Powerball White Balls (PWB) = 1 through 69
-Red Powerball (RPB) = 1 through 26
-Weekly Schedule = Monday, Wednesday, Saturday
-Odds = 1 in 292,201,338
-Total Annual Drawings = 156
-
-Current Mega Millions Ruleset (B):
-
-Mega Million White Balls (MMWB) = 1 through 70
-Gold Mega Ball (GMB) = 1 through 24
-Weekly Schedule = Tuesday, Friday
-Odds = 1 in 290,472,336
-Total Annual Drawings = 104
-
-Total Annual PB & MM Drawings = 260
-Total PB & MM Drawings Over 10 Years = 2,600
-
-Current Weekly Sequence Ruleset (Repeated Indefinitely):
-
-A, B, A, B, A
-
-Numeric Sequencing Ruleset for Each Week (Repeated Indefinitely):
-
-PWB, PWB, PWB, PWB, PWB, RPB, MMWB, MMWB, MMWB, MMWB, MMWB, GMB, PWB, PWB, PWB, PWB, PWB, RPB, MMWB, MMWB, MMWB, MMWB, MMWB, GMB, PWB, PWB, PWB, PWB, PWB, RPB
-
-Numeric Sequencing Ruleset for Each Week Depicted By Range (Repeated Indefinitely):
-
-1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 24, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 70, 1 - 24, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 69, 1 - 26
-
-Maximum Character Rulesets to Inform Search and Filtering Algorithms:
-
-Comma delimiter is appended to the end of each numeric word.
-
-1 = one = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
-2 = two = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
-3 = three = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
-4 = four = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
-5 = five = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
-6 = six = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
-7 = seven = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
-8 = eight = 5 characters + comma delimiter = 6 total characters for this specific numeric word sequence
-9 = nine = 4 characters + comma delimiter = 5 total characters for this specific numeric word sequence
-10 = ten = 3 characters + comma delimiter = 4 total characters for this specific numeric word sequence
-11 = eleven = 6 characters + comma delimiter = 7 total characters for this specific numeric word sequence
-12 = twelve = 6 characters + comma delimiter = 7 total characters for this specific numeric word sequence
-13 = thirteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
-14 = fourteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
-15 = fifteen = 7 characters + comma delimiter = 9 total characters for this specific numeric word sequence
-16 = sixteen = 7 characters + comma delimiter = 9 total characters for this specific numeric word sequence
-17 = seventeen = 9 characters + comma delimiter = 11 total characters for this specific numeric word sequence
-18 = eighteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
-19 = nineteen = 8 characters + comma delimiter = 10 total characters for this specific numeric word sequence
-20 = twenty = 6 characters + space between numeric words + comma delimiter = 8 total characters for this specific numeric word sequence
-21 - 29 = 11 - 13 total characters for this specific numeric word sequence including comma delimiter and hyphen
-30 = thirty = 6 characters + space between numeric words + comma delimiter = 8 total characters for this specific numeric word sequence
-31 - 39 = 11 - 13 total characters for this specific numeric word sequence including comma delimiter and hyphen
-40 = forty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
-41 - 49 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
-50 = fifty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
-51 - 59 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
-60 = sixty = 5 characters + space between numeric words + comma delimiter = 7 total characters for this specific numeric word sequence
-61 - 69 = 10 - 12 total characters for this specific numeric word sequence including comma delimiter and hyphen
-70 = seventy = 7 characters + comma delimiter = 8 total characters for this specific numeric word sequence
-
-Maximum Possible Characters in Sequence A:
-13 + 13 + 13 + 13 + 13 + 13 = 78
-
-Maximum Possible Characters in Sequence B:
-13 + 13 + 13 + 13 + 13 + 13 = 78
-
-Minimum Possible Characters in Sequence A:
-3 + 3 + 3 + 3 + 4 + 4 = 20
-
-Minimum Possible Characters in Sequence B:
-3 + 3 + 3 + 3 + 4 + 4 = 20
+How do we query the Algorithm of Babel to unveil the Predetermination within the algorithm? We inject precise historical data in compliant formats and discard errant states of foreknowledge that do not follow the Sequence Rulesets, retaining only states of foreknowledge that are compliant with Sequence Rulesets.
 
 Minimum Characters Necessary for Precision in Search Handling for 10 Years of Predictions:
 78 * 2600 = 202,800
@@ -136,6 +58,7 @@ Thought will no longer be sacred, for the same underlying premises can localize 
 Predetermination Use Case Strategy (Dyson Sphere & Dyson Swarm):
 
 https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt
+
 
 
 
