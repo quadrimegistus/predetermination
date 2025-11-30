@@ -23,3 +23,6 @@ This file is an eample of what the Raw Query injected into the Algorithm of Babe
 [Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
 
 This file specifies precisely the works I will go perform with Predetermination and Automation as my weapons.
+
+# Completed Technology Overview
+Technology will parse the comma separated values in the ODS files. Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files. Technology will convert jackpot numerals to numeric words and structure the word placement in chronological order. Technology will inject the sequenced data into the Algorithm of Babel's Search feature. Technology will render the information of the exact Search match to the user. Technology will discard search matches where forthcoming data is not compliant with the data structures required to demonstrate Predetermination. Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure furnished by the Algorithm of Babel.
