@@ -16,7 +16,7 @@ This links to a user friendly implementation of the interactive technology depic
 
 [Sequence Rulesets](https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt)
 
-This file specifies the rulesets by which the games in our sequence operate, and the constraints by which the programming logic will be written around. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
+This file specifies the current rulesets by which the games in our sequence operate, and the constraints by which the programming logic will be written around. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
 
 [Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
