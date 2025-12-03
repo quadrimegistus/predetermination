@@ -1,10 +1,12 @@
 # Predetermination
 
-The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite.
-
 [Predetermination Concept Overview](https://github.com/quadrimegistus/predetermination/blob/main/Predetermination%20Concept%20Overview.txt)
 
 This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise - how to successfully demonstrate Predetermination by deriving foreknowledge of winning lottery numbers utilizing the Algorithm of Babel (also called the Library of Babel).
+
+# Algorithm of Babel
+
+The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite.
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
