@@ -48,10 +48,6 @@ This file depicts a small, incomplete example of chronological sequencing of bot
 
 This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search feature will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
 
-[Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
-
-This file specifies precisely the works I will go perform with Predetermination and Automation as my weapons.
-
 # Completed Technology Overview
 
 Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation). Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files. Technology will convert jackpot numerals to numeric words and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from the file Sequenced Historical Data Example). Technology will inject the sequenced data into the Algorithm of Babel's refactored Search feature. Technology will render the information of the perfect Search match to the user. Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate Predetermination. Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure native to the Algorithm of Babel.
@@ -59,6 +55,12 @@ Technology will parse the comma separated values in the ODS files (and any necce
 # End Result
 
 Complete Search for perfect match. Receive one, or multiple, sequenced outputs of six numbers that will be foreknowledge of the forthcoming jackpot drawing for either lottery. Purchase tickets covering scope of output data. Repeat 5x a week.
+
+# Manifesting the Future
+
+[Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
+
+This file specifies precisely the works I will go perform with Predetermination and Automation as my weapons.
 
 # Data Set Sources
 
