@@ -16,7 +16,7 @@ This links to a user friendly implementation of the interactive technology depic
 
 [Limitations of Current Implementation](https://github.com/quadrimegistus/predetermination/blob/main/Limitations%20of%20Current%20Implementation.png)
 
-This image file highlights the limitations of the current implementation of the Library of Babel. A maximum 3200 character search synchronized with the accurate Raw Query Data returns 10^29 (100 Octillion) results and demonstrates why refactoring the code for the Search feature is required to achieve perfect precision in Search resuults. The image also demonstrates the success of the Filtering Algorithm, as errant data possibilities are reduced from 10^5000 to 10^29. Targeted maximum results for the completed refactor will be < 10^1.
+This image file highlights the limitations of the current implementation of the Library of Babel. A maximum 3200 character search synchronized with the [Raw Query Primer](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Primer%20Example.txt) returns 10^29 (100 Octillion) results and demonstrates why refactoring the code for the Search feature is required to achieve perfect precision in Search resuults. The image also demonstrates the success of the Filtering Algorithm, as errant data possibilities are reduced from 10^5000 to 10^29. Targeted maximum results for the completed refactor will be < 10^1.
 
 # Solutioning the Implementation
 
