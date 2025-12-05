@@ -84,3 +84,5 @@ This file specifies precisely the works I will go perform with Predetermination 
 Predetermination Science -> This document.
 
 I made this for my nephew Braxton so that he may heal from his Father's passing.
+
+Precise annual value is $4,160,000,000.00
