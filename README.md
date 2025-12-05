@@ -57,6 +57,7 @@ This file depicts a small, incomplete eample of what the Raw Query injected into
 * Technology will render the information of the perfect Search match to the user.
 * Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate Predetermination.
 * Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure native to the Algorithm of Babel.
+* Running the technology -> Clone to local -> execute the script "run main.py" from localized Command Line Interface -> Receive sequenced output observable in Command Line Interface.
 
 # End Result
 
