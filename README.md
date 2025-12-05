@@ -48,11 +48,11 @@ This file depicts a small, incomplete example of chronological sequencing of bot
 
 This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search feature will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
 
-# Completed Technology Overview
+# Completed Technology Overview: Master Configuration
 
 * Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation).
 * Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files.
-* Technology will convert jackpot numerals to numeric words and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from the file Sequenced Historical Data Example).
+* Technology will convert jackpot numerals to numeric words (ex: 1 -> one) and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from the file Sequenced Historical Data Example).
 * Technology will inject the sequenced data into the Algorithm of Babel's refactored Search feature.
 * Technology will render the information of the perfect Search match to the user.
 * Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate Predetermination.
