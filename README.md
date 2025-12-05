@@ -82,3 +82,5 @@ This file specifies precisely the works I will go perform with Predetermination 
 [Predetermination Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
 Predetermination Science -> This document.
+
+I made this for my nephew Braxton so that he may heal from his Father's passing.
