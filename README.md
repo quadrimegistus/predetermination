@@ -85,4 +85,4 @@ Predetermination Science -> This document.
 
 I made this for my nephew Braxton so that he may heal from his Father's passing.
 
-Precise annual value is $4,160,000,000.00
+Precise annual value is $4,160,000,000.00 in this current version of reality.
