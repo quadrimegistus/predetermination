@@ -61,7 +61,7 @@ This file depicts a small, incomplete eample of what the Raw Query injected into
 
 # End Result
 
-Complete Search for perfect match. Receive one, or multiple, sequenced outputs of six numbers that will be foreknowledge of the forthcoming jackpot drawing for either lottery. Purchase tickets covering scope of output data. Repeat 5x a week.
+Complete Search for perfect match. Receive one, or multiple, sequenced outputs of six numbers that will be foreknowledge of the forthcoming jackpot drawing for the next chronological lottery. Purchase tickets covering scope of output data. Repeat 5x a week.
 
 # Manifesting the Future
 
