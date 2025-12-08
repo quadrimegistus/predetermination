@@ -80,7 +80,7 @@ This file specifies precisely the works I will go perform with Predetermination 
 # Minimum Learning
 [Predetermination Tutorials: Menu -> Curriculum -> Python Certification](https://www.freecodecamp.org/)
 
-[Predetermination Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
+[Predetermination Optional Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
 Predetermination Science -> This document.
 
