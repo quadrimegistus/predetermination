@@ -69,7 +69,7 @@ Complete Search for perfect match. Receive one, or multiple, sequenced outputs o
 
 This file specifies precisely the works I will go perform with Predetermination and [Automation](https://github.com/quadrimegistus/the_divine_thought_of_automation) as my weapons.
 
-# Data Set Sources
+# Data Set Sources for Retrieving Data Deltas
 
 [Mega Millions Data Set from 2002 to Present](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
 
