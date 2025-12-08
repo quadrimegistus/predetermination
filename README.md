@@ -78,7 +78,7 @@ This file specifies precisely the works I will go perform with Predetermination 
 [Powerball Data Set from 1992 to 2021](https://www.kaggle.com/datasets/nathennguyen/powerball-1992-to-current-year)
 
 # Minimum Learning
-[Predetermination Tutorials](https://www.freecodecamp.org/)
+[Predetermination Tutorials: Menu -> Curriculum -> Python Certification](https://www.freecodecamp.org/)
 
 [Predetermination Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
