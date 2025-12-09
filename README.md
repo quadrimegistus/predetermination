@@ -68,7 +68,7 @@ Complete Search for perfect match. Receive one, or multiple, sequenced outputs o
 
 [Completed Understanding of Computer Science](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
 
-This file specifies precisely the works to be performed with Predetermination and [Automation](https://github.com/quadrimegistus/the_divine_thought_of_automation).
+This file specifies divine thoughts of the works to be performed with Predetermination and [Automation](https://github.com/quadrimegistus/the_divine_thought_of_automation).
 
 # Data Set Sources for Retrieving Data Deltas
 
