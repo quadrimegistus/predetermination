@@ -24,11 +24,11 @@ This image file highlights the limitations of the current implementation of the 
 
 [Sequence Rulesets](https://github.com/quadrimegistus/predetermination/blob/main/Sequence%20Rulesets.txt)
 
-This file specifies the current rulesets by which the games in our sequence operate, and the constraints by which the programming logic will be written around. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
+This file specifies the current rulesets by which the games in our sequence operate, and the constraints by which the programming logic must be written around. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
 
 [Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
-A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for ten years of compliant data.
+A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for any additional years of compliant data desired.
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
@@ -46,23 +46,33 @@ This file depicts a small, incomplete example of chronological sequencing of bot
 
 [Raw Query Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt)
 
-This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search feature will look like - a sequence of numeric words derived from the aforementioned ODS files depicting jackpot data in chronological order.
+This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search feature looks like - a sequence of numeric words derived from the aforementioned ODS files depicting perfect data listed in chronological order.
 
 # The Divine Use Case, a Completed Technology Overview: Master Configuration
 
 * Technology will have Search feature character allowance refactored from limitation of 3200 to one of dynamicism derived from aggregated character totals required to perform the divine use case.
-* Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation).
-* Technology will sequence data chronologically utilizing the Date Objects from the comma separated values in the ODS files.
-* Technology will convert jackpot numerals to numeric words (ex: 1 -> one) and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from the file Sequenced Historical Data Example).
+* Technology will parse the comma separated values in the ODS files (and any neccesary deltas for the data to be current at time of solutioning the implementation, retrieved from the Data Set Sources URI below).
+* Technology will sequence data chronologically referencing the Date Objects from the comma separated values in the ODS files.
+* Technology will convert the perfect data from numerals to numeric words (ex: 1 -> one) and structure the numeric word placement in sequenced chronological order (as depicted in the file Raw Query Example that is derived from the file Sequenced Historical Data Example).
 * Technology will inject the sequenced data into the Algorithm of Babel's refactored Search feature.
-* Technology will render the information of the perfect Search match to the user.
-* Technology will discard imperfect Search matches where forthcoming data is not compliant with the data structures required to demonstrate Predetermination.
-* Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity structure native to the Algorithm of Babel.
-* Running the technology -> Refactor the forked codebase following the above instructions -> Clone the forked codebase to local -> execute the script "run main.py" from localized Command Line Interface -> Receive sequenced output observable in Command Line Interface.
+* Technology will render the information of the perfect Search match to the user in any UI desired for usage. UI may be as simple as a CLI output, or .csv output.
+* Technology will filter imperfect Search matches by array methods where forthcoming data is not compliant with the data structures required to demonstrate Predetermination. Return values should only be numeric words.
+* Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity specimen structure native to the Algorithm of Babel.
+* Running the technology -> Clone the forked example codebase to local -> Refactor the forked codebase example following the aforementioned instructions -> Execute the script "run main.py" from localized Command Line Interface -> Receive sequenced return values observable in Command Line Interface.
 
 # End Result
 
-Complete Search for perfect match. Receive one, or multiple, sequenced outputs of six numbers that will be foreknowledge of the forthcoming jackpot drawing for the next chronological lottery. Purchase tickets covering scope of output data. Repeat 5x a week.
+Complete Search for perfect data match. Receive sequenced return values of six numbers that will be foreknowledge of the forthcoming jackpot drawing for the next chronological lottery. Purchase tickets covering scope of return value configurations -> maximum of 6 tickets, as white ball orders do not matter, only Red Powerball / Gold Mega Ball. Repeat 5x a week.
+
+# Min / Maxing Results
+
+In addition to the species present moment jackpot, there is also precisely $1,052,022.00 in the Powerball reward structure for partial correctness per drawing, and $2,021,464.00 in the Mega Millions reward structure for partial correctness per drawing.
+
+Powerball: $1,052,022.00 * 3x a week = $3,156,066.00 weekly * 52 weeks a year = $164,115,432.00 annually.
+
+Mega Millions: $2,021,464.00 * 2x a week = $4,042,928.00 weekly * 52 weeks a year = $210,232,256.00 annually.
+
+Total supplemental reward in addition to jackpot for min/maxing: $374,347,688.00 annually. Don't leave money on the table.
 
 # Manifesting the Future
 
@@ -87,4 +97,4 @@ Predetermination Science -> This document.
 
 I made this for my nephew Braxton so that he may heal from his Father's passing.
 
-Precise annual value is $4,160,000,000.00 in this current version of reality.
+Precise annual value is a minimum of $4,160,000,000.00 in this current version of reality.
