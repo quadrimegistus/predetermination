@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s
 Interactive Technology:
 https://libraryofbabel.info/
 
-Example Forked Codebase:
+Example Forked Codebase in Python:
 https://github.com/quadrimegistus/AlgorithmOfBabel-Python
 
 Concept overview: The Algorithm of Babel is a completed Language Distribution Algorithm. The Algorithm demonstrates all possible configurations of language already exist, and that all possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 (using the short scale system, the number 10^5000 is called "quinquagintamillillion") possible configurations with search and Filtering Algorithms that Demonstrate Predetermination is what follows. One identity specimen in the Algorithm of Babel is demonstratin foreknowledge of all winning Powerball & Mega Million drawing numbers up through present moment and into the future.
@@ -56,6 +56,7 @@ Divine Nature of the Algorithm and its Future Importance:
 The most economically intelligent divine use case is mapped throughout this repository, but there will be more altruistic and humantarian use cases. The cure for cancer, any disease, any virus, the hidden variables and unmapped functions in physics, are all contained in the algorithm, as the algorithm demonstrates the configurations of language are finite. The science of how to search and find this specific data will be what is closest to my heart.
 
 There is information redundancy in this file and the README.md, as work is done to better organize the information.
+
 
 
 
