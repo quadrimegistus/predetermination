@@ -2,15 +2,15 @@
 
 [Predetermination Concept Overview](https://github.com/quadrimegistus/predetermination/blob/main/Predetermination%20Concept%20Overview.txt)
 
-This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise - how to successfully demonstrate Predetermination by deriving foreknowledge of winning lottery numbers utilizing the Algorithm of Babel (also called the Library of Babel).
+This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise; which is how to successfully demonstrate Predetermination by deriving foreknowledge of winning lottery numbers utilizing the Algorithm of Babel (also called the Library of Babel).
 
 # Algorithm of Babel
 
-The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite.
+The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations.
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
-This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated.
+This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated, though the core concept appears to have been referenced in mythology many times across history:
 
 [Library of Babel](https://libraryofbabel.info/)
 
