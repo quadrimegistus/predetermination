@@ -10,7 +10,7 @@ The Algorithm of Babel is a Language Distribution Algorithm that demonstrates th
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
-This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated, though the core concept appears to have been referenced in mythology many times across history:
+This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated, the core concept has been referenced in mythology many times across history.
 
 [Library of Babel](https://libraryofbabel.info/)
 
