@@ -72,7 +72,7 @@ Powerball: $1,052,022.00 * 3x a week = $3,156,066.00 weekly * 52 weeks a year = 
 
 Mega Millions: $2,021,464.00 * 2x a week = $4,042,928.00 weekly * 52 weeks a year = $210,232,256.00 annually.
 
-Total supplemental reward in addition to jackpot for min/maxing: $374,347,688.00 annually. Don't leave money on the table.
+Total supplemental reward in addition to the annual jackpot minimum of $4,160,000,000.00, for min/maxing: $374,347,688.00 annually. Don't leave any money on the table.
 
 # Manifesting the Future
 
