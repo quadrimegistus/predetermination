@@ -31,7 +31,7 @@ Required Feature Solutioning for the default Algorithm of Babel configuration:
 3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements of demonstrating the foreknowledge required to unveil predetermination
 
 Optional Solutioning:
-1) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor" as Predetermination is a demonstration that time is linear and non-cyclical.
+1) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor" as Predetermination proves that time is linear and non-cyclical.
 
 The underlying API that serves the search and filtering functions for this Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The forked codebase example linked in the upper directory of this repository provides a Python implementation. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. Prototyping the software with the strategy detailed in the README.md of this repository unveils the specificity in hardware requirements is 1 server / capable device of executing a "run main.py" script. Classical computation can complete this computation without a quantum software wrapper. Integrating into the Search and Filtering Algorithm the perfect historical data guarantees perfect precision in next sequence data.
 
@@ -56,6 +56,7 @@ Divine Nature of the Algorithm and its Future Importance:
 The most economically intelligent divine use case is mapped throughout this repository, but there will be more altruistic and humantarian use cases. The cure for cancer, any disease, any virus, the hidden variables and unmapped functions in physics, are all contained in the algorithm, as the algorithm demonstrates the configurations of language are finite. The science of how to search and find this specific data will be what is closest to my heart.
 
 There is information redundancy in this file and the README.md, as work is done to better organize the information.
+
 
 
 
