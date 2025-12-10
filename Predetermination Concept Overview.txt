@@ -57,6 +57,11 @@ The most economically intelligent divine use case is mapped throughout this repo
 
 There is information redundancy in this file and the README.md, as work is done to better organize the information.
 
+# Thoughts on Quantum Mechanics
+
+Quantum Mechanics can only offer up perfectly correct information when the logic in the technology is configured for perfect precision.
+
+
 
 
 
