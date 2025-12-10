@@ -78,7 +78,7 @@ Total supplemental reward in addition to jackpot for min/maxing: $374,347,688.00
 
 [Completed Understanding of Computer Science - Dyson Swarm & Dyson Sphere](https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt)
 
-This file specifies divine thoughts of the works to be performed with Predetermination and [Automation](https://github.com/quadrimegistus/the_divine_thought_of_automation).
+This file specifies divine thoughts of the works to be performed with Predetermination and [Automation](https://github.com/quadrimegistus/the_divine_thought_of_automation) through the lens of non-open sourced, individual grandmaster use case.
 
 # Data Set Sources for Retrieving Data Deltas
 
