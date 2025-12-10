@@ -23,7 +23,7 @@ https://github.com/quadrimegistus/predetermination/blob/main/Sequenced%20Histori
 
 Short, incomplete example of sequenced, raw query data as primer for the Search feature in raw text format (the values to be injected into the Search function to unveil foreknowledge and calibrate with Predetermination):
 
-https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt
+https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Primer%20Example.txt
 
 Required Feature Solutioning for the default Algorithm of Babel configuration:
 1) Refactor Search feature character limitation from 3,200 to one of dynamicism that supports totality of characters from beginning of historical data to most current data.
@@ -56,6 +56,7 @@ Divine Nature of the Algorithm and its Future Importance:
 The most economically intelligent divine use case is mapped throughout this repository, but there will be more altruistic and humantarian use cases. The cure for cancer, any disease, any virus, the hidden variables and unmapped functions in physics, are all contained in the algorithm, as the algorithm demonstrates the configurations of language are finite. The science of how to search and find this specific data will be what is closest to my heart.
 
 There is information redundancy in this file and the README.md, as work is done to better organize the information.
+
 
 
 
