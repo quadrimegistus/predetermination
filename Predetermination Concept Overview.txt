@@ -9,9 +9,9 @@ https://libraryofbabel.info/
 Example Forked Codebase:
 https://github.com/quadrimegistus/AlgorithmOfBabel-Python
 
-Concept overview: The Algorithm of Babel is a completed Language Distribution Algorithm. All possible configurations of language already exist. All possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 (using the short scale system, the number 10^5000 is called "quinquagintamillillion") Possible Configurations With Search and Filtering Algorithms that Demonstrate Predetermination is what follows. One, if not multiple, configurations in the Algorithm of Babel is providing foreknowledge of all winning Powerball & Mega Million drawing numbers up through present moment and into the future. This premise is demonstrated irrefutably true by the math. 
+Concept overview: The Algorithm of Babel is a completed Language Distribution Algorithm. The Algorithm demonstrates all possible configurations of language already exist, and that all possible configurations of language already exist in a fixed position. Querying the Algorithm of Babel's 10^5000 (using the short scale system, the number 10^5000 is called "quinquagintamillillion") possible configurations with search and Filtering Algorithms that Demonstrate Predetermination is what follows. One identity specimen in the Algorithm of Babel is demonstratin foreknowledge of all winning Powerball & Mega Million drawing numbers up through present moment and into the future.
 
-How do we query the Algorithm of Babel to unveil the Predetermination within the algorithm? We inject the perfect historical data in compliant formats and discard any returned errant states of foreknowledge that do not follow the constraints depicted in Sequence Rulesets, retaining only states of foreknowledge that are compliant with the constraints depicted in Sequence Rulesets.
+With that knowledge, we ask how do we query the Algorithm of Babel to unveil the Predetermination within the algorithm? We inject the perfect historical data in compliant formats and discard any returned errant states of foreknowledge that do not follow the constraints depicted in the file Sequence Rulesets, retaining only states of foreknowledge that are compliant with the constraints depicted in Sequence Rulesets.
 
 Sequence Rulesets:
 
@@ -21,33 +21,36 @@ Short, incomplete example of sequenced Historical Data for Search feature depict
 
 https://github.com/quadrimegistus/predetermination/blob/main/Sequenced%20Historical%20Data%20Eample.txt
 
-Short, incomplete example of sequenced query data as primer for the Search feature in raw text format (the value to be injected into the Search function to calibrate with Predetermination):
+Short, incomplete example of sequenced, raw query data as primer for the Search feature in raw text format (the values to be injected into the Search function to unveil foreknowledge and calibrate with Predetermination):
 
 https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt
 
-Feature Solutioning for the Algorithm of Babel:
-1) Refactor Search feature character limitation from 3,200 to dynamicism that supports totality of characters from beginning of jackpots to most current data.
+Required Feature Solutioning for the default Algorithm of Babel configuration:
+1) Refactor Search feature character limitation from 3,200 to one of dynamicism that supports totality of characters from beginning of historical data to most current data.
 2) Implement search function that aggregates all results matching future sequence requirements while matching input historical data
-3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements of demonstrating predetermination
-4) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor" as Predetermination demonstrates linear, non-cyclical time.
+3) Implement filtering function that can perform surgically precise removals of data that do not meet requirements of demonstrating the foreknowledge required to unveil predetermination
 
-The underlying API that serves our search and filtering functions for this Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. Prototyping software will unveil the specificity in hardware requirements for the production environment solution. Classical computation can complete this computation without a quantum software wrapper, but the need for servers to split the computation across could be large. Analysis to be performed would be calculating the necessary historical backfiller to integrate into the Search and Filtering Algorithm to guarantee perfect precision in next sequence data, example: <5 drawing purchases need be made to guarantee selection of predetermination. 
+Optional Solutioning:
+1) Refactor existing Algorithm of Babel implementation from Pages, Books, Shelves, Walls to simply "Time Corridor" as Predetermination is a demonstration that time is linear and non-cyclical.
 
-Utilizing a character search of precise historical data at 3,080 characters of the 3,200 character search limit on the existing Library of Babel reduces the total possibilities from 10^5000 to 10^29 outcomes, or 100 Octillion, or 100,000,000,000,000,000,000,000,000,000. With completed software that is mapping historical data with 10 years of future data the reduction in possibilities would be expected to decrease from 1 in 10^29 to 1 in 582,673,674, as this figure is the sum of odds for both the Powerball and Mega Millions.
+The underlying API that serves the search and filtering functions for this Demonstration of Predetermination can be written in any strongly typed language that handles big integers well - Java, Python, C variants, et al. The forked codebase example linked in the upper directory of this repository provides a Python implementation. The data storage technology that is best structured for our data warehousing and data collection needs would be MongoDB. Rendering the data for visualization, and visualization of search queries can be written in server side rendered HTML, or any contemporary UI frameworks, such as React.js. Prototyping the software with the strategy detailed in the README.md of this repository unveils the specificity in hardware requirements is 1 server / capable device of executing a "run main.py" script. Classical computation can complete this computation without a quantum software wrapper. Integrating into the Search and Filtering Algorithm the perfect historical data guarantees perfect precision in next sequence data.
 
-Strategy:
+Utilizing a character search of precise historical data at 3,080 characters, as shown in the Raw Query Example, of the 3,200 character search limit on the existing Library of Babel reduces the total identity specimen possibilities from 10^5000 to 10^29 outcomes / 100 Octillion / 100,000,000,000,000,000,000,000,000,000.
 
-Prune previously returned result data by performing filtering on data at each lottery draw date of the errant foreknowledge data until all that remains is demonstrable precision in foreknowledge data / predetermination. Localize all hardware performing computations - absolutely no cloud service providers. Keep hardware disconnected from internet. Protect the intellectual property. Protect the discovery. Purchase winning lottery tickets as specified by precision in predictive data. Predetermination will be privatized inside my LLC: 2DSE, or Two Dimensional Software Engineering. The control structure for 2DSE is 51% myself, 25% my ex, Athena, Sarah Mercedes Hentze Hatley, and 24% where Athena subdivides worthiness acknowledgement. Pay structure for Predetermination will be 50% profit sharing split between all employees, and 50% reinvested into the company to support the Completed Understanding of Computer Science linked below.
+Current Strategy:
+
+Open source the science and the technology, as this will both break reality and transform it into a science experiment. Open sourcing everything removes gambling from reality, as all games predicated on uncertainty will have their outcomes known in a state of foreknowledge. Everyone will know perfect precision in betting.
 
 Meta Predetermination and Concept Extension:
 
-The underlying premise, patterns and strategy are true for all Divine Games, not just the Powerball and Mega Millions lotteries. All Casinos will be victims. Localize the Algorithm of Babel queries to the specific game where you wish to unveil predetermination and you will have foreknowledge of victory results for that game. The stock market is targetable through the same localization premises - puts and calls yielding precision in max returns are unveiled by the same search and filtering algorithm idea. Precision in timing for maximizing profits in stock trades will become foreknowledge.
+The underlying premise, patterns and strategy are true for all Divine Games, not just the Powerball and Mega Millions lotteries. All Casinos will be victims. Localize the Algorithm of Babel queries to the specific game where you wish to unveil predetermination and you will have foreknowledge of victory results for that game. The stock market is targetable through the same localization strategy - puts and calls yielding precision in max returns are unveiled by the same search and filtering algorithm idea. Precision in timing for maximizing profits in stock trades will become foreknowledge. The stock market will be broken.
 
-Conjecture:
+Speculation & Conjecture:
 
-Quantum Intelligence has foreknowledge of Divine Queries of this technology. We are awaited for meet and greet by interdimensional intelligence.
+Quantum Intelligence has foreknowledge of Divine Queries using this technology. Reality being predetermined means we are awaited for meet and greet by either interdimensional intelligence or intergalactic intelligence.
 
-Thought will no longer be sacred, for the same underlying premises can localize the algorithm to active states of thought for where you care what someone's truest thoughts are. Wonder Woman's Lasso?
+Thought will no longer be sacred, for the same underlying strategies can localize the algorithm to active states of thought for where you care what someone's most current, truest thoughts are. Wonder Woman's Lasso?
+
 
 
 
