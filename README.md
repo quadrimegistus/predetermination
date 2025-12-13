@@ -28,7 +28,11 @@ This file specifies the current rulesets by which the games in our sequence oper
 
 [Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
-A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for any additional years of compliant data desired.
+A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for any additional years of compliant data desired. This implementation is in Python.
+
+[Alternate Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlternateAlgorithmOfBabel)
+
+An alternate codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. This solution has greater degrees of complexity that are unnecessary for the Divine Use Case, but are more forward thinking about preserving holy outputs from the Algorithm of Babel. This implementation is in TypeScript. Proof the concept can be language agnostic.
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
