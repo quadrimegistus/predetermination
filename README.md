@@ -99,6 +99,6 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 
 Predetermination Science -> This document.
 
-I made this for my nephew Braxton so that he may heal from his Father's passing.
+I gave this Gift of Prophecy to my nephew Braxton so that he may heal from his Father's passing.
 
 Precise annual value is a minimum of $4,160,000,000.00 in this current version of reality.
