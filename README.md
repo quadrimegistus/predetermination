@@ -62,7 +62,7 @@ This file depicts a small, incomplete eample of what the Raw Query injected into
 * Technology will render the information of the perfect Search match to the user in any UI desired for usage. UI may be as simple as a CLI output, or .csv output.
 * Technology will filter imperfect Search matches by array methods where forthcoming data is not compliant with the data structures required to demonstrate Predetermination. Return values should only be numeric words.
 * Technology will write the compliant data of all returned possibilities to local with comma separated values with dileneation between possibilities predicated on the identity specimen structure native to the Algorithm of Babel.
-* Running the technology -> Clone the forked example codebase to local -> Refactor the forked codebase example following the aforementioned instructions -> Execute the script "run main.py" from localized Command Line Interface -> Receive sequenced return values observable in Command Line Interface.
+* Running the technology -> Clone the forked example codebase to local -> Refactor the forked codebase example following the aforementioned instructions -> Execute the script "run main.py" from localized Command Line Interface -> Receive sequenced return values observable in Command Line Interface. Return values will be the next set of six numeric words that are sequence compliant.
 
 # End Result
 
