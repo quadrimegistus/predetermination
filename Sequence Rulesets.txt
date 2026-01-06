@@ -1,5 +1,7 @@
 Sequence Rulesets
 
+White Balls can not have duplicates.
+
 Current Powerball Ruleset (A):
 
 Powerball White Balls (PWB) = 1 through 69
@@ -80,4 +82,5 @@ Minimum Possible Characters in Sequence B:
 
 Minimum Characters Necessary for Precision in Search Handling for 10 Years of Foreknowledge:
 78 * 2600 = 202,800
+
 
