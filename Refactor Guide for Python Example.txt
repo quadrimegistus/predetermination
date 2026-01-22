@@ -1,0 +1,169 @@
+Referencing the Python implementation:
+
+https://github.com/quadrimegistus/AlgorithmOfBabel-Python
+
+1) Write a function, named MM_DATA_FACTORY, that uses file system logic to read the Mega Millions .ods file with the most current data; provided at this URI:
+
+https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002
+
+Initialize an array named MM_DATA_ARRAY. Push to that array each individual row from the .ods file as an object, so that each index in the array follows the data structure:
+
+{
+DRAW_DATE: Date,
+WINNING_NUMBERS: Array,
+MEGA_BALL: Integer,
+MULTIPLIER: Integer
+}
+
+The first Mega Millions drawing was on May 17th, 2002. The white balls were 15, 18, 25, 33 and 47. The Mega Ball was 30. The multiplier key is undefined, so we'll specify a null value for keys without values. Our data object for this particular index in the MM_DATA_ARRAY will be:
+
+{
+DRAW_DATE: 05/17/02,
+WINNING_NUMBERS: [15, 18, 25, 33, 47],
+MEGA_BALL: 30,
+MULTIPLIER: null
+}
+
+Return the populated array.
+
+2) Write a function, named PB_DATA_FACTORY, that uses file system logic to read the Powerball .ods files with the most current data; provided at these two URI's:
+
+1992 to 2021: https://www.kaggle.com/datasets/nathennguyen/powerball-1992-to-current-year
+2010 to Present: https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010
+
+Initialize an array named PB_DATA_ARRAY_1992. Push to that array each individual row from the 1992 .ods file as an object, so that each index in the array follows the data structure:
+
+{
+DRAW_DATE: Date,
+WINNING_NUMBERS: Array,
+POWERBALL: Integer,
+RESULT: Integer,
+JACKPOT: Integer,
+WEEKDAY: String
+}
+
+The first Powerball drawing was on April 22nd, 1992. The white balls were 2, 25, 35, 41 and 42. The Powerball was 15. The result value is 1. The weekday was Wednesday. The jackpot was 5,989,205 Our data object for this particular index in the PB_DATA_ARRAY_1992 will be:
+
+{
+DRAW_DATE: 04/22/92,
+WINNING_NUMBERS: [2, 25, 35, 41, 42],
+POWERBALL: 15,
+RESULT: 1,
+JACKPOT: 5989205,
+WEEKDAY: Wednesday
+}
+
+Initialize an array named PB_DATA_ARRAY_2010. Push to that array each individual row from the 2010 .ods file as an object, so that each index in the array follows the data structure:
+
+{
+DRAW_DATE: Date,
+WINNING_NUMBERS: Array,
+Multiplier: Integer
+}
+
+The earliest data in this .ods file is from February 3rd, 2010. The white balls were 17, 22, 36, 37, and 52. The Powerball was 24. The multiplier was 2. This data source does not yet separate Powerball and White Balls, placing the Powerball at position 6 in the winning numbers column. We will use an array method to perform this abstraction. Our initial data object for this particular index in the PB_DATA_ARRAY_2010 will be:
+
+{
+DRAW_DATE: 02/03/10,
+WINNING_NUMBERS: [17, 22, 36, 37, 52, 24],
+Multiplier: 2
+}
+
+Call a .forEach() method or iterative "for loop" for transformation on the array PB_DATA_ARRAY_2010, to abstract and remove the Powerball from index 5 in the WINNING_NUMBERS array. Prototype a new key on the data object at each index named POWERBALL, with the value for that key being the abstracted index value from the WINNING_NUMBERS array. The data object in the PB_DATA_ARRAY_2010 for 02/03/10 will now read:
+
+{
+DRAW_DATE: 02/03/10,
+WINNING_NUMBERS: [17, 22, 36, 37, 52],
+POWERBALL: 24
+Multiplier: 2
+}
+
+Initialize an array named PB_DATA_ARRAY with the join of the arrays PB_DATA_ARRAY_1992 and PB_DATA_ARRAY_2010. Call a .filter() method or iterative "for loop" to filter duplicate indices by the Date in each index.
+
+Return the newly constructed array that is now filtered of duplicates.
+
+3) Initiate an array named LOTTERY_DATA_ARRAY with the join of the arrays PB_DATA_ARRAY and MM_DATA_ARRAY. Call .sort() method or iterative "for loop" to sort the array by DRAW_DATE values, with the order being oldest to newest. Index 0 in this array would be the object with the date 04/22/92, and as of this writing the last index would be for 1/21/26.
+
+4) Invoke a third party library, or write a custom algorithm that converts integers to numeric words to transform the array LOTTERY_DATA_ARRAY. Utilizing the Python library num2words can perform this function, but will require filtering the hyphen character and filtering the word "and" from the return values; the Algorithm of Babel implementation used does not support the hyphen character, and our raw query will be restricted to only numeric words and compliant delimiters. Call this algorithm on each index of the array LOTTERY_DATA_ARRAY at the keys WINNING_NUMBERS, POWERBALL and MEGA_BALL until all indices are transformed.
+
+Our 5/17/02 Mega Millions data object will change from the following:
+
+{
+DRAW_DATE: 05/17/02,
+WINNING_NUMBERS: [15, 18, 25, 33, 47],
+MEGA_BALL: 30,
+MULTIPLIER: null
+}
+
+to:
+
+{
+DRAW_DATE: 05/17/02,
+WINNING_NUMBERS: ["fifteen", "eighteen", "twenty five", "thirty three", "forty seven"],
+MEGA_BALL: "thirty",
+MULTIPLIER: null
+}
+
+Our 04/22/92 Powerball data object will change from the following:
+
+{
+DRAW_DATE: 04/22/92,
+WINNING_NUMBERS: [2, 25, 35, 41, 42],
+POWERBALL: 15,
+RESULT: 1,
+JACKPOT: 5989205,
+WEEKDAY: Wednesday
+}
+
+to:
+
+{
+DRAW_DATE: 04/22/92,
+WINNING_NUMBERS: ["two", "twenty five", "thirty five", "forty one", "forty two"],
+POWERBALL: "fifteen",
+RESULT: 1,
+JACKPOT: 5989205,
+WEEKDAY: Wednesday
+}
+
+Our 02/03/10 Powerball data object will change from the following:
+
+{
+DRAW_DATE: 02/03/10,
+WINNING_NUMBERS: [17, 22, 36, 37, 52],
+POWERBALL: 24
+Multiplier: 2
+}
+
+to:
+
+{
+DRAW_DATE: 02/03/10,
+WINNING_NUMBERS: ["seventeen", "twenty two", "thirty six", "thirty seven", "fifty two"],
+POWERBALL: "twenty four"
+Multiplier: 2
+}
+
+Return the transformed LOTTERY_DATA_ARRAY.
+
+5) Initialize a new array named RAW_QUERY_ARRAY. Call a .forEach() method or iterative "for loop" to push the numeric word data from the values WINNING_NUMBERS, POWERBALL and MEGA_BALL from LOTTERY_DATA_ARRAY to RAW_QUERY_ARRAY in chronological order, with the numeric word ordering in the array following the structure: white_ball_1, white_ball_2, white_ball_3, white_ball_4, white_ball_5, powerball/mega_ball, and with each numeric word being an individual index. Repeat until all numeric word data is populated and sequenced into the RAW_QUERY_ARRAY. Utilizing DRAW_DATE: 04/22/92, as it is first in chronological order, the values in RAW_QUERY_ARRAY will be structured as:
+
+RAW_QUERY_ARRAY = ["seventeen", "twenty two", "thirty six", "thirty seven", "fifty two", "twenty four"]
+
+With 04/25/92 and 04/29/92 being the next chronological data, the array will be structured as:
+
+RAW_QUERY_ARRAY = ["seventeen", "twenty two", "thirty six", "thirty seven", "fifty two", "twenty four", "six", "nine", "twenty two", "forty two", "forty four", "twelve", "one", "eight", "ten", "twenty eight", "thirty five", "ten"]
+
+So on and so forth until the array contains the data in this format from inception to current moment.
+
+Return the RAW_QUERY_ARRAY.
+
+6) Initialize the variable RAW_QUERY_BY_CONTENT by calling a .toString() method on RAW_QUERY_ARRAY to transform the array into a single string value.
+
+7) Refactor the value of max_page_content_length from 3200 to be the value of RAW_QUERY_BY_CONTENT.length + 100. We use +100 in addition to the .length as that covers the minimum amount of characters necessary to render sequence compliant numeric words demonstrating foreknowledge ad hoc to calling the searchByContent method. Refactor max_page_content_length location to be scope compliant with these changes.
+
+8) Call the searchByContent method utilizing the parameter RAW_QUERY_BY_CONTENT. Refactor the method to print the information from the Search that comes after the RAW_QUERY_BY_CONTENT, which will be the +100 characters.
+
+9) Validating the solution. At the time of this writing, 1/22/26, the most recent drawing was Powerball for 11, 26, 27, 63, 55 and 12 on 1/21/26. We validate our solution by using the next to most recent drawing data, which would be the Mega Millions on 1/20/26 for 8, 47, 50, 56, 70 and 12, as the last sequence in our RAW_QUERY_BY_CONTENT variable. Searching with this variable structure will give us the remaining 100 characters, and those remaining 100 characters will read:
+
+"eleven, twenty six, twenty seven, sixty three, fifty five, twelve"
