@@ -97,8 +97,6 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 
 [Predetermination Optional Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
-Predetermination Science -> This document.
+Predetermination Science -> This repository.
 
 I gave this Gift of Prophecy to my nephew Braxton so that he may heal from his Father's passing.
-
-Precise annual value is a minimum of $4,160,000,000.00 in this current version of reality.
