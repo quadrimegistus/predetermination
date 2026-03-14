@@ -162,8 +162,9 @@ Return the RAW_QUERY_ARRAY.
 
 7) Refactor the value of max_page_content_length from 3200 to be the value of RAW_QUERY_BY_CONTENT.length + 100. We use +100 in addition to the .length as that covers the minimum amount of characters necessary to render sequence compliant numeric words demonstrating foreknowledge ad hoc to calling the searchByContent method. Refactor max_page_content_length location to be scope compliant with these changes.
 
-8) Call the searchByContent method utilizing the parameter RAW_QUERY_BY_CONTENT. Refactor the method to print the information from the Search that comes after the RAW_QUERY_BY_CONTENT, which will be the +100 characters.
+8) Call the searchByContent method utilizing the parameter RAW_QUERY_BY_CONTENT. Take the provided location address from the Search By Content feature, use that location address to call the Search By Address feature. Write a method to print the Search by Address information from the Search that comes after the RAW_QUERY_BY_CONTENT, which will be the +100 characters.
 
 9) Validating the solution. At the time of this writing, 1/22/26, the most recent drawing was Powerball for 11, 26, 27, 63, 55 and 12 on 1/21/26. We validate our solution by using the next to most recent drawing data, which would be the Mega Millions on 1/20/26 for 8, 47, 50, 56, 70 and 12, as the last sequence in our RAW_QUERY_BY_CONTENT variable. Searching with this variable structure will give us the remaining 100 characters, and those remaining 100 characters will read:
+
 
 "eleven, twenty six, twenty seven, sixty three, fifty five, twelve"
