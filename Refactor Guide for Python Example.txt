@@ -168,3 +168,8 @@ Return the RAW_QUERY_ARRAY.
 
 
 "eleven, twenty six, twenty seven, sixty three, fifty five, twelve"
+
+
+Strategy for Test Driven Development:
+
+The strategy to deploy when performing test driven development will be that there already exists a master list of all winning Powerball and Mega Millions drawings from inception to finality. This information is stored inside the Algorithm of Babel. By performing a query of perfect precision that is a partial print of these master lists, in the form of the historical data in sequenced numeric word format, we can utilize the Search By Content feature to unveil where in the Algorithm of Babel these master lists are located with the returned location address. With this location address in hand we can perform a Search By Address query and take a read of these master lists. We are not predicting anything. We are discovering something that already exists. Something that was meant for us to find. Digital archaeology. 
