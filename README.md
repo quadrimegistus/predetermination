@@ -1,3 +1,5 @@
+This repository demonstrates a perfected understanding of the Many Worlds interpretation of Quantum Mechanics.
+
 # Predetermination
 
 [Predetermination Concept Overview](https://github.com/quadrimegistus/predetermination/blob/main/Predetermination%20Concept%20Overview.txt)
