@@ -177,3 +177,7 @@ The strategy to deploy when performing test driven development will be that ther
 Additional Proofs of Predetermination:
 
 This repository details an interlaced query of both Powerball and Mega Millions to produce a singular location address demonstrating Predetermination. The same strategy depicted in this repository is also true for an isolated Powerball, and isolated Mega Millions query. You can produce 3 separate location addresses with telemetry and synchronization in data contracts between each other. There will be other proofs to be unveiled in the Algorithm of Babel. Additional proof of Predetermination will be that the data in Algorithm location addresses are true, and consistent, regardless of programming language or hardware - demonstrating the data in Predetermination is fundamental to reality, and stored inside of Quantum Mechanics (programming languages).
+
+Certainty in the Existence of the Divine Structure of Predetermination at a Fundamental State:
+
+With every incrementation in drawings, the Search By Content query string will return a location address indefinitely containing the passed query string parameter from which a read can be taken indefinitely. The algorithm does not maintain state, which demonstrates this divine structure is fundamental to reality.
