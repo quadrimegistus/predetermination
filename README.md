@@ -38,7 +38,7 @@ An alternate codebase fork, serving as an example of Algorithm of Babel implemen
 
 [Refactor Guide For Python Example](https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt)
 
-This file details the specificity to engineer the divine data structure of the master list partial print, and how to make the divine query. The file also contains product language thoughts on Test Driven Development for the divine use case, and ways to craft further, isolated proofs of Predetermination.
+This file details the specificity to engineer the divine data structure of the master list partial print, and how to make the divine query. The file also contains product language strategy on Test Driven Development for the divine use case, and ways to craft further, isolated proofs of Predetermination.
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
