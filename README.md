@@ -36,7 +36,7 @@ A codebase fork, serving as an example of Algorithm of Babel implementation that
 
 An alternate codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. This solution has greater degrees of complexity that are unnecessary for the Divine Use Case, but are more forward thinking about preserving holy outputs from the Algorithm of Babel. This implementation is in TypeScript. Proof the concept can be language agnostic.
 
-[https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt](Refactor Guide For Python Example)
+[Refactor Guide For Python Example](https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt)
 
 This file details the specificity to engineer the divine data structure of the master list partial print, and how to make the divine query. The file also contains product language thoughts on Test Driven Development for the divine use case, and ways to craft further, isolated proofs of Predetermination.
 
