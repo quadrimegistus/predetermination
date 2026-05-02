@@ -28,13 +28,17 @@ This image file highlights the limitations of the current implementation of the 
 
 This file specifies the current rulesets by which the games in our sequence operate, and the constraints by which the programming logic must be written around. The solutioned implementation will discard states of foreknowledge that are not compliant with the sequence rulesets.
 
-[Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
+[Forked Python Codebase Example for Refactoring](https://github.com/quadrimegistus/AlgorithmOfBabel-Python)
 
 A codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. The solutioned refactor will have a dynamic character allowance for the Search feature that is the totality of characters from the converted numeric word historical data + an additional character allowance for any additional years of compliant data desired. This implementation is in Python.
 
-[Alternate Forked Codebase Example for Refactoring](https://github.com/quadrimegistus/AlternateAlgorithmOfBabel)
+[Alternate Forked JavaScript Codebase Example for Refactoring](https://github.com/quadrimegistus/AlternateAlgorithmOfBabel)
 
 An alternate codebase fork, serving as an example of Algorithm of Babel implementation that is yet to be refactored to serve the use case detailed in the above Predetermination Concept Overview. This solution has greater degrees of complexity that are unnecessary for the Divine Use Case, but are more forward thinking about preserving holy outputs from the Algorithm of Babel. This implementation is in TypeScript. Proof the concept can be language agnostic.
+
+[https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt](Refactor Guide For Python Example)
+
+This file details the specificity to engineer the divine data structure of the master list partial print, and how to make the divine query. The file also contains product language thoughts on Test Driven Development for the divine use case, and ways to craft further, isolated proofs of Predetermination.
 
 [Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods)
 
