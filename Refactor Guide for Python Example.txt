@@ -160,7 +160,7 @@ Return the RAW_QUERY_ARRAY.
 
 6) Initialize the variable RAW_QUERY_BY_CONTENT by calling a .toString() method on RAW_QUERY_ARRAY to transform the array into a single string value.
 
-7) Refactor the value of max_page_content_length from 3200 to be the value of RAW_QUERY_BY_CONTENT.length + 100. We use +100 in addition to the .length as that covers the minimum amount of characters necessary to render sequence compliant numeric words demonstrating foreknowledge ad hoc to calling the searchByContent method. Refactor max_page_content_length location to be scope compliant with these changes.
+7) Refactor the value of max_page_content_length from 3200 to be the value of RAW_QUERY_BY_CONTENT.length + 100, and relocate the variable from line 5 to a scope appropriate position for the Search By Address feature. We use +100 in addition to the .length as that covers the minimum amount of characters necessary to render sequence compliant numeric words demonstrating foreknowledge ad hoc to calling the searchByContent method. Refactor max_page_content_length location to be scope compliant with these changes.
 
 8) Call the searchByContent method utilizing the parameter RAW_QUERY_BY_CONTENT. Take the provided location address from the Search By Content feature, use that location address to call the Search By Address feature. Write a method to print the Search by Address information from the Search that comes after the RAW_QUERY_BY_CONTENT, which will be the +100 characters.
 
