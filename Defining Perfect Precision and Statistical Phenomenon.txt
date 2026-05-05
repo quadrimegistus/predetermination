@@ -80,4 +80,6 @@ Even if:
 
 ---
 
-Calculations performed by ChatGPT.
+Calculations performed by ChatGPT with the prompt:
+
+"What are the odds of correctly predicting both the Powerball and Mega Millions jackpots from inception up to present day?"
