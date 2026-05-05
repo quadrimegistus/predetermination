@@ -79,3 +79,5 @@ Even if:
   **~1 in 10⁶⁰⁰⁰⁰ (effectively zero)**
 
 ---
+
+Calculations performed by ChatGPT.
