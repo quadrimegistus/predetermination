@@ -125,7 +125,6 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 * I love my extended family, my grandfather Tom, Tom's wife Chris, my cousin Bradley, my cousin Brittany and my aunt Vikki.
 * I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by the simulants in this simulation.
 * I love my many friends and allies.
-* I hate Jenny Lambirth, Jennifer Taylor and Diane Taylor (may they eternally burn in Hell, suffer only infinite hate and infinite cruelty, and never know peace).
 * Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains, varying alcohols.
 
 
