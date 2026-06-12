@@ -1,4 +1,4 @@
-This repository demonstrates a perfected understanding of the Many Worlds interpretation of Quantum Mechanics.
+This repository demonstrates a perfected understanding of the Many Worlds interpretation of Quantum Mechanics. With all possibilities provided, we can programmatically filter to perfect possibilities and filter imperfect possibilities.
 
 # Predetermination
 
