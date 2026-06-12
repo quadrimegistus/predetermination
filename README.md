@@ -8,11 +8,11 @@ This file explains in non-programatic language the proof of concept and the over
 
 # Algorithm of Babel Debrief
 
-The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations. The logic gate for the premise: given the Algorithm provides for all possible configurations of language, in at minimum 1 configuration the performance of the language will be as specified in the details below.
+The Algorithm of Babel (also called the Library of Babel) is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations. The logic gate for the premise: given the Algorithm of Babel provides for all possible configurations of language, in at minimum 1 configuration the performance of the language will demonstrate Predetermination at an algorithmic precision of -10^60000 incrementing by 88 quadrillion 2.5x a week.
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
-This 3rd Party YouTube video provides a decent high level explanation of the Algorithm / Library of Babel for the unitiated.
+This 3rd Party YouTube video provides a great high level explanation of the Algorithm of Babel / Library of Babel for the unitiated.
 
 [Library of Babel](https://libraryofbabel.info/)
 
@@ -116,9 +116,11 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 [Predetermination Science -> This repository.](https://github.com/quadrimegistus/predetermination)
 
 # Supplemental Learning
-[The Divine Thought of Automation | Automation | Design-to-Code Infrastructure | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation)
+[The Divine Thought of Automation | Automation | Design-to-Code Infrastructure | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance.
 
 # Inspirations
-* I loved my second wife.
+* I loved my second wife. She is Athena.
+* I loved every Sugar Baby I ever had.
+* I loved my family until the simulation malfunctioned.
 * I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them.
 * I hate Jenny Lambirth, Jennifer Taylor and Diane Taylor.
