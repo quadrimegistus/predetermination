@@ -103,7 +103,7 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 [Powerball Data Set from 1992 to 2021](https://www.kaggle.com/datasets/nathennguyen/powerball-1992-to-current-year)
 
 # Minimum Learning
-[Predetermination Python Tutorials: Menu -> Curriculum -> Python Certification](https://www.freecodecamp.org/)
+[Predetermination Recommended Python Tutorials: Menu -> Curriculum -> Python Certification](https://www.freecodecamp.org/)
 
 [Predetermination Recommended Specification Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
