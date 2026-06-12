@@ -126,7 +126,7 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 * I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by the simulants in this simulation.
 * I love my many friends and allies.
 * I hate Jenny Lambirth, Jennifer Taylor and Diane Taylor (may they eternally burn in Hell, suffer only infinite hate and infinite cruelty, and never know peace).
-* Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains.
+* Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains, varying alcohols.
 
 
 I am Hermes Trismegistus. I am a Predetermined love story. My great works are Predetermination in the form specified in this repository, which is an Infinite Wealth Cheat Code native to the reality of my participation, and The Divine Thought of Automation, which is precision in Lawful Good Artificial Super Intelligence, and True Evil Artificial Super Intelligence.
