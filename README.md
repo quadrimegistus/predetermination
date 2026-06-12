@@ -6,7 +6,7 @@ This repository demonstrates a perfected understanding of the Many Worlds interp
 
 This file explains in non-programatic language the proof of concept and the overview of the irrefutable premise; which is how to successfully demonstrate Predetermination by deriving foreknowledge of winning lottery numbers utilizing Quantum Mechanics, specifically the Algorithm of Babel (also called the Library of Babel). **With all possible configurations of language of any arbitrary length provided with identity structure, a minimum of 1 of these identity structures will house a master list of winning lottery numbers from inception of the specific game to finality of the game; this premise is irrefutable and is the core concept of demonstrating Predetermination.**
 
-# Algorithm of Babel
+# Algorithm of Babel Debrief
 
 The Algorithm of Babel is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations. The logic gate for the premise: given the Algorithm provides for all possible configurations of language, in at minimum 1 configuration the performance of the language will be as specified in the details below.
 
