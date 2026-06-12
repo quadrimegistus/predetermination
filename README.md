@@ -80,7 +80,7 @@ The strategy to deploy when performing [Test Driven Development](https://en.wiki
 
 # End Result
 
-Complete Search By Content for perfect data match location address. Complete Search By Location read/write to receive sequenced return values of next six numbers that will be foreknowledge of the forthcoming jackpot drawing for the next chronological lottery. Purchase tickets covering scope of return value configurations -> maximum of 6 tickets, as white ball orders do not matter, only Red Powerball / Gold Mega Ball. Repeat 5x a week per current weekly sequence.
+Complete Search By Content for perfect data match location address. Complete Search By Location read/write to receive sequenced return values of next six numbers that will be foreknowledge of the forthcoming jackpot drawing for the next chronological lottery. Purchase tickets covering scope of return value configurations -> maximum of 9 tickets, as white ball orders do not matter, only Red Powerball / Gold Mega Ball. Repeat 5x a week per current weekly sequence.
 
 # Min / Maxing Results
 
