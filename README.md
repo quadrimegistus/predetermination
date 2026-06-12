@@ -54,7 +54,7 @@ These files are a completed compile of Powerball Historical Data from 04/22/92 t
 
 This file depicts a small, incomplete example of chronological sequencing of both lotteries with jackpot data derived from the aforementioned .ods files.
 
-[Raw Query Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Example.txt)
+[Raw Query Primer Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Primer%20Example.txt)
 
 This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search By Content feature looks like - a sequence of numeric words derived from the aforementioned .ods files depicting perfect data listed in sequenced, numeric word chronological order.
 
