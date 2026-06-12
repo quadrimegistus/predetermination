@@ -60,7 +60,7 @@ This file depicts a small, incomplete example of what the Raw Query injected int
 
 [Defining Perfect Precision and Statistical Phenomenon](https://github.com/quadrimegistus/predetermination/blob/main/Defining%20Perfect%20Precision%20and%20Statistical%20Phenomenon.txt)
 
-This document depicts the math that defines the concepts of Perfect Precision and Statistical Phenomenon for the location address(es) which houses the master lists of lottery data described in this repository. The rarity of the location address is -10^60,000 as of present day (5/5/2026), incrementing by 88,000,000,000,000,000 (88 quadrillion) 2.5x a week.
+This document depicts the math that defines the concepts of Perfect Precision and Statistical Phenomenon for the location address(es) which houses the master lists of lottery data described in the [Refactor Guide for Python Example](https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt). The rarity of the location address is -10^60,000 as of present day (5/5/2026), incrementing by 88,000,000,000,000,000 (88 quadrillion) 2.5x a week.
 
 # [Test Driven Development Perspective Shift](https://en.wikipedia.org/wiki/Test-driven_development)
 
