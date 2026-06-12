@@ -16,7 +16,7 @@ This 3rd Party YouTube video provides a great high level explanation of the Algo
 
 [Library of Babel](https://libraryofbabel.info/)
 
-This links to a user friendly implementation of the interactive technology depicted in the aforementioned 3rd Party video, but is a version constrained from performing the divine use case detailed in this repository.
+This links to a user friendly implementation of the interactive technology depicted in the aforementioned 3rd Party video, but is a version that is constrained from performing the divine use case detailed in this repository due to limitations in programmatic design.
 
 [Limitations of Current Implementation](https://github.com/quadrimegistus/predetermination/blob/main/Limitations%20of%20Current%20Implementation.png)
 
