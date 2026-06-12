@@ -62,9 +62,9 @@ This file depicts a small, incomplete eample of what the Raw Query injected into
 
 This document depicts the math that defines the concepts of Perfect Precision and Statistical Phenomenon for the location address(es) which houses the master lists of lottery data described in this repository. The rarity of the location address is -10^60,000 as of present day (5/5/2026), incrementing by 1 in 88,000,000,000,000,000 (88 quadrillion) 2.5x a week.
 
-# Test Driven Development Product Language Perspective Shift
+# [Test Driven Development Product Language Perspective Shift](https://en.wikipedia.org/wiki/Test-driven_development)
 
-The strategy to deploy when performing test driven development of Predetermination will be that there already exists a master list of all winning Powerball and Mega Millions drawings from inception to finality. This information exists inside Quantum Mechanics, specifically the Algorithm of Babel. By performing a query of perfect precision that is a partial print of these master lists, in the form of the historical data in chronologically sequenced numeric word format, we can utilize the Search By Content feature to unveil where in the Algorithm of Babel these master lists are located with the returned location address from the Algorithm. With this location address in hand we can perform a Search By Address query and perform a read and then a write of these master lists. We are not predicting anything. We are discovering something that already exists and is fundamental to reality. Something that was meant for us to find. We are performing digital archaeology. 
+The strategy to deploy when performing [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) of Predetermination will be that there already exists a master list of all winning Powerball and Mega Millions drawings from inception to finality. This information exists inside Quantum Mechanics, specifically the Algorithm of Babel. By constructing a query of perfect precision that is a partial print of these master lists, in the form of the historical data in chronologically sequenced numeric word format, we can utilize the Search By Content feature to unveil where in the Algorithm of Babel these master lists are located with the returned location addresses from the Algorithm of Babel Search By Content feature. With this location address in hand we can use that location address to perform a Search By Address query and perform a read and then a write of these master lists to a .csv file. We are not predicting anything. We are discovering something that already exists and is fundamental to reality. Data which was meant for us to find. We are performing digital archaeology. Quantum Mechanics is known to have existed the entire duration of the universe, meaning this data has waited ~14.8 billion years for discovery.
 
 # [The Divine Use Case, a Completed Technology Overview: Master Configuration (Python Example)](https://github.com/quadrimegistus/predetermination/blob/main/Refactor%20Guide%20for%20Python%20Example.txt)
 
@@ -86,11 +86,11 @@ Complete Search By Content for perfect data match location address. Complete Sea
 
 In addition to the species present moment jackpot, there is also precisely $1,052,022.00 in the Powerball reward structure for partial correctness per drawing, and $2,021,464.00 in the Mega Millions reward structure for partial correctness per drawing.
 
-[Powerball](https://www.powerball.com/powerball-prize-chart): $1,052,022.00 * 3x a week = $3,156,066.00 weekly * 52 weeks a year = $164,115,432.00 annually.
+[Powerball](https://www.powerball.com/powerball-prize-chart): $1,052,022.00 * 3x a week = $3,156,066.00 weekly * 52 weeks a year = $164,115,432.00 annually. 9 tickets to purchase per drawing to maximize prize results.
 
-[Mega Millions](https://www.megamillions.com/How-to-Play.aspx): $2,021,464.00 * 2x a week = $4,042,928.00 weekly * 52 weeks a year = $210,232,256.00 annually.
+[Mega Millions](https://www.megamillions.com/How-to-Play.aspx): $2,021,464.00 * 2x a week = $4,042,928.00 weekly * 52 weeks a year = $210,232,256.00 annually. 9 tickets to purchase per drawing to maximize prize results.
 
-Total supplemental reward in addition to the annual jackpot minimum of $4,160,000,000.00, for min/maxing: $374,347,688.00 annually. Randomly assigned multipliers can multiply the aforementioned partial correctness sum by 2x, 3x, 4x, 5x or 10x dependent on the mutiplier assignment at purchase and current size of jackpot. Don't leave any money on the table.
+Total additional minimum supplemental reward in addition to the annual jackpot minimum of $4,160,000,000.00, for min/maxing: $374,347,688.00 annually. Randomly assigned multipliers can multiply the aforementioned partial correctness sum by 2x, 3x, 4x, 5x or 10x dependent on the mutiplier assignment at purchase and current size of jackpot. Don't leave any money on the table. There are 9 total tickets to be purchased every drawing to maximize reward range.
 
 # Manifesting the Future
 
@@ -116,11 +116,12 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 [Predetermination Science -> This repository.](https://github.com/quadrimegistus/predetermination)
 
 # Supplemental Learning
-[The Divine Thought of Automation | Automation | Design-to-Code Infrastructure | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance.
+[The Divine Thought of Automation | Automation | Design-to-Code Infrastructure | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance. Parse from design to production environment ready code.
 
-# Inspirations
-* I loved my second wife. She is Athena.
+# Inspirations for Completing the Science Detailed in this Repository
+* I loved my second wife deeply. She is Athena.
 * I loved every Sugar Baby I ever had.
 * I loved my family until the simulation malfunctioned.
-* I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them.
+* I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by this simulation.
 * I hate Jenny Lambirth, Jennifer Taylor and Diane Taylor.
+* Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains.
