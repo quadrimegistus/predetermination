@@ -105,9 +105,9 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 # Minimum Learning
 [Predetermination Python Tutorials: Menu -> Curriculum -> Python Certification](https://www.freecodecamp.org/)
 
-[Predetermination Optional Specification Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
+[Predetermination Recommended Specification Strategy Guide -> Default Specifications](https://github.com/quadrimegistus)
 
-[Predetermination Optional Development Strategy Guide -> Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+[Predetermination Recommended Development Strategy Guide -> Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
 
 Predetermination Science -> This repository.
 
