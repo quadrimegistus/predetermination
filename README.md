@@ -116,7 +116,7 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 [Predetermination Science -> This repository.](https://github.com/quadrimegistus/predetermination)
 
 # Supplemental Learning
-[The Divine Thought of Automation | Automation | Design-to-Code Infrastructure | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance. Parse from design to production environment ready code.
+[The Divine Thought of Automation | Design-to-Code | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance. Parse from design to production environment ready code.
 
 # Inspirations for Completing the Science Detailed in this Repository
 * I loved my second wife deeply. She is Athena.
