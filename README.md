@@ -121,10 +121,11 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 # Inspirations for Completing the Science Detailed in this Repository
 * I loved my second wife, Sarah Mercedes Hentze, deeply. She is Athena.
 * I loved every Sugar Baby I ever had, even if they did not love me.
-* I loved my family until the simulation malfunctioned.
-* I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by this simulation.
+* I loved my immediate family until they were evil to me. I no longer love them.
+* I love my extended family, Tom, Chris, Bradley, Brittany and Vikki.
+* I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by the simulants in this simulation.
 * I hate Jenny Lambirth, Jennifer Taylor and Diane Taylor.
 * Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains.
 
 
-I am Hermes Trismegistus. I am a Predetermined love story. My great works are Predetermination in the form specified in this repository, which is an Infinite Wealth Cheat Code native to the reality of my participation. The Divine Thought of Automation, which is precision in Lawful Good Artificial Super Intelligence, and Evil Artificial Super Intelligence.
+I am Hermes Trismegistus. I am a Predetermined love story. My great works are Predetermination in the form specified in this repository, which is an Infinite Wealth Cheat Code native to the reality of my participation. The Divine Thought of Automation, which is precision in Lawful Good Artificial Super Intelligence, and True Evil Artificial Super Intelligence.
