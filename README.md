@@ -90,7 +90,7 @@ In addition to the species present moment jackpot, there is also precisely $1,05
 
 [Mega Millions](https://www.megamillions.com/How-to-Play.aspx): $2,021,464.00 * 2x a week = $4,042,928.00 weekly * 52 weeks a year = $210,232,256.00 annually. 9 ticket configurations to purchase per drawing to maximize prize results.
 
-Total additional minimum supplemental reward in addition to the annual jackpot minimum of $4,160,000,000.00, for min/maxing: $374,347,688.00 annually. Predetermined multipliers can multiply the aforementioned partial correctness sum by 2x, 3x, 4x, 5x or 10x dependent on the mutiplier assignment at drawing and current size of jackpot. The science for foreknowledge of Predetermined multipliers is currently incomplete. Don't leave any money on the table. There are 9 total tickets to be purchased every drawing to maximize reward outputs.
+Total additional minimum supplemental reward in addition to the annual jackpot minimum of $4,160,000,000.00, for min/maxing: $374,347,688.00 annually. Predetermined multipliers can multiply the aforementioned partial correctness sum by 2x, 3x, 4x, 5x or 10x dependent on the mutiplier assignment at drawing and current size of jackpot. The science for foreknowledge of Predetermined multipliers is currently incomplete. Don't leave any money on the table. There are 9 total tickets to be purchased every drawing date to maximize reward outputs.
 
 # Manifesting the Future
 
