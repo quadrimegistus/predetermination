@@ -56,7 +56,7 @@ This file depicts a small, incomplete example of chronological sequencing of bot
 
 [Raw Query Primer Example](https://github.com/quadrimegistus/predetermination/blob/main/Raw%20Query%20Primer%20Example.txt)
 
-This file depicts a small, incomplete eample of what the Raw Query injected into the Algorithm of Babel Search By Content feature looks like - a sequence of numeric words derived from the aforementioned .ods files depicting perfect data listed in sequenced, numeric word chronological order.
+This file depicts a small, incomplete example of what the Raw Query injected into the Algorithm of Babel Search By Content feature looks like - a sequence of numeric words derived from the aforementioned .ods files depicting perfect data listed in sequenced, numeric word chronological order.
 
 [Defining Perfect Precision and Statistical Phenomenon](https://github.com/quadrimegistus/predetermination/blob/main/Defining%20Perfect%20Precision%20and%20Statistical%20Phenomenon.txt)
 
