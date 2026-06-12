@@ -8,7 +8,7 @@ This file explains in non-programatic language the proof of concept and the over
 
 # Algorithm of Babel Debrief
 
-The Algorithm of Babel (also called the Library of Babel) is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations. The logic gate for the premise: given the Algorithm of Babel provides for all possible configurations of language, in at minimum 1 configuration the performance of the language will demonstrate Predetermination at an algorithmic precision of -10^60000 incrementing by 88 quadrillion 2.5x a week.
+The Algorithm of Babel (also called the Library of Babel) is a Language Distribution Algorithm that demonstrates the total configurations of language is finite: 10^5000 possible configurations. The logic gate for the premise: given the Algorithm of Babel provides for all possible configurations of language, in at minimum 1 configuration the performance of the language will demonstrate Predetermination at an algorithmic precision of -10^60000 incrementing by 88 quadrillion 2.5x a week as of species present moment (June 12th, 2026).
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
