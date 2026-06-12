@@ -12,7 +12,7 @@ The Algorithm of Babel (also called the Library of Babel) is a Language Distribu
 
 [Algorithm / Library of Babel 3rd Party Explanation](https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s)
 
-This 3rd Party YouTube video provides a great high level explanation of the Algorithm of Babel / Library of Babel for the unitiated (Algorithm of Babel explained beginning at time 17:04, lasting to end).
+This 3rd Party YouTube video provides a great high level explanation of the Algorithm of Babel / Library of Babel for the unitiated (Algorithm of Babel explaination beginning at time 17:04, lasting to end).
 
 [Library of Babel](https://libraryofbabel.info/)
 
