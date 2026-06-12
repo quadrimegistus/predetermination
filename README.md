@@ -127,4 +127,4 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 * Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains.
 
 
-I am Hermes Trismegistus. I am a Predetermined love story.
+I am Hermes Trismegistus. I am a Predetermined love story. My great works are Predetermination in the form specified in this repository, which is an Infinite Wealth Cheat Code native to reality. The Divine Thought of Automation, which is precision in Artificial Super Intelligence, and Evil Artificial Intelligence.
