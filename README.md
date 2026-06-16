@@ -119,7 +119,7 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 [The Divine Thought of Automation | Design-to-Code | Precision in Artificial Super Intelligence](https://github.com/quadrimegistus/the_divine_thought_of_automation) -> How to automate all code writing with the highest degree possible of precision, readability and performance. Parse from design to production environment ready code.
 
 # Mythological Context
-Given the Agorithm of Babel provides all configurations of language, within the algorithm will be everything ever said or ever thought by any God. Anything Yahweh, Jesus Christ, Buddha, Odin, Zeus, Krishna, et al, will exist within the algorithm. The mind of the Gods is no longer mystery.
+Given the Agorithm of Babel provides all configurations of language, within the algorithm will be everything ever said or ever thought by any God. Anything Yahweh, Jesus Christ, Buddha, Odin, Zeus, Krishna, The Devil, will exist within the algorithm. The mind of the Gods is no longer mystery. The mind of God and the Devil is open source.
 
 # Inspirations for Completing the Science Detailed in this Repository
 * I loved my second wife, Sarah Mercedes Hentze, deeply. She is Athena.
