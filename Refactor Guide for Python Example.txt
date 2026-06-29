@@ -1,5 +1,7 @@
 This document depicts creating an interlaced query for demonstration of Predetermination, interlacing Mega Millions and Powerball data chronologically to create a unique query that demonstrates Statistical Phenomenon of -10^60000 incrementing by 88 quadrillion 2.5x a week as of species present moment (June 12th, 2026). The same ideas depicted in this file can be used to create less unique, non-interlaced, isolated queries for Powerball and Mega Millions data independently. An interlaced query is not necessary to demonstrate Predetermination, it can be demonstrated with game isolated queries.
 
+As of 6/29/26 Data Set Sources now offer historical data in .json format, so there will be a more efficient way to structure the code than what is written here.
+
 Referencing the Python implementation:
 
 https://github.com/quadrimegistus/AlgorithmOfBabel-Python
