@@ -40,13 +40,13 @@ An alternate codebase fork, serving as an example of Algorithm of Babel implemen
 
 This file details the specificity to engineer the divine data structure of the master list partial print, and how to make the divine query in the Python example. The file also contains product language strategy on Test Driven Development for the divine use case, and ways to craft further, isolated proofs of Predetermination.
 
-[Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods) -> [Most current data](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
+[Mega Millions Historical Data 051702 to 112825](https://github.com/quadrimegistus/predetermination/blob/main/Mega%20Millions%20Historical%20Data%20051702%20to%20112825.ods) -> [Most current data - sources now offer .json as of 6/29/26](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
 
 This file is a completed compile of Mega Millions Historical Data from 05/17/02 to 11/28/25 with comma separated values in a .ods file format. The most current data can be found at the URI's specified.
 
 [Powerball Historical Data 042292 to 100421](https://github.com/quadrimegistus/predetermination/blob/main/Powerball%20Historical%20Data%20042292%20to%20100421.ods)
 
-[PowerBail Historical Data 020310 to 112925](https://github.com/quadrimegistus/predetermination/blob/main/Powerball%20Historical%20Data%20020310%20to%20112925.ods) -> [Most current data](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+[PowerBail Historical Data 020310 to 112925](https://github.com/quadrimegistus/predetermination/blob/main/Powerball%20Historical%20Data%20020310%20to%20112925.ods) -> [Most current data - sources now offer .json as of 6/29/26](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
 
 These files are a completed compile of Powerball Historical Data from 04/22/92 to 11/29/25 with comma separated values in a .ods file format. The most current data can be found at the URI's specified.
 
@@ -100,9 +100,9 @@ This file specifies divine thoughts of the works to be performed with Predetermi
 
 # Data Set Sources for Retrieving Data Deltas for Most Current Data Sets
 
-[Mega Millions Data Set from 2002 to Present](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
+[Mega Millions Data Set from 2002 to Present - sources now offer .json as of 6/29/26](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
 
-[Powerball Data Set from 2010 to Present](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
+[Powerball Data Set from 2010 to Present - sources now offer .json as of 6/29/26](https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010)
 
 [Powerball Data Set from 1992 to 2021](https://www.kaggle.com/datasets/nathennguyen/powerball-1992-to-current-year)
 
