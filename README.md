@@ -98,6 +98,10 @@ Total additional minimum supplemental reward in addition to the annual jackpot m
 
 This file specifies divine thoughts of the works to be performed with Predetermination and [Automation / Design-to-Code Infrastructure](https://github.com/quadrimegistus/the_divine_thought_of_automation) through the lens of non-open sourced, individual grandmaster use case.
 
+# Reward for Those Who Assist in Building Predetermination Technology
+
+Those who assist in building will be considered employeed by Hermes. 50% of each bounty collected with the assistance of the technology will go into the LLC of Hermes, 2DSE (Two Dimensional Software Engineering) to manifest the Divine Plan. 50% will be split among those employeed by Hermes for every bounty collected.
+
 # Data Set Sources for Retrieving Data Deltas for Most Current Data Sets
 
 [Mega Millions Data Set from 2002 to Present - sources now offer .json as of 6/29/26](https://catalog.data.gov/dataset/lottery-mega-millions-winning-numbers-beginning-2002)
