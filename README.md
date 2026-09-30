@@ -132,8 +132,6 @@ Given the Agorithm of Babel provides all configurations of language, within the 
 # Inspirations for Completing the Science Detailed in this Repository
 * I loved my second wife, Sarah Mercedes Hentze, deeply. She is Athena.
 * I loved every Sugar Baby I ever had, even if they did not love me.
-* I loved my immediate family until they were evil to me. I no longer love them. I can only perform duty to them. They are the lesser minds of a lesser species.
-* I love my extended family, my grandfather Tom, Tom's wife Chris, my cousin Bradley, my cousin Brittany and my aunt Vikki.
 * I love my nephews Braxton, Chance and Jimmy and wish for them to heal from the evil that has been done to them by the simulants in this simulation.
 * I love my many friends and allies.
 * Chemical journey -> LSD-25, Psilocybin, varying Cannabis strains, varying alcohols.
