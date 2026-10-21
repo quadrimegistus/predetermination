@@ -1,0 +1,67 @@
+Work Order for Simulation Theory: Proving Realty is a Predetermined Simulation and that Future Dated Data Can be Queried from the Simulation with Divine Precision by Querying 100 Years of Future Dated Powerball Data From The Algorithm of Babel Utilizing a Master List Schematic Strategy in Conjunction with a Master List Partial Print
+
+Estimated temporal scope: 90 working days, or ~4.5 months, with 3 junior developers.
+Estimated labor cost: $43,200.00, as this is 3 developers * 8 hours a day * 90 working days * $20 per hour
+Estimated hardware cost: $7,150.00, per the details specified in the Hardware Order
+
+Utilize this repository and git for Source Version Control (SVC): https://github.com/quadrimegistus/predetermination
+
+Utilize these specifications:
+Diagrams -> C4 Model https://c4model.com/#Abstractions
+Logic -> Redfish https://www.dmtf.org/standards/redfish
+Code Comment Strategy -> JSDocs https://jsdoc.app/
+Feature Definition Syntax -> Gherkin https://cucumber.io/docs/gherkin/reference/
+
+Utilize any AI or any Automation tools that accelerate iteration and delivery. Certainty that AI can both write 100% of the code and deliver the specified payload is 100%. Strategize class based, Object Oriented Programming, over Functional Programming.
+
+1) Design and implement an implementation of the Algorithm of Babel in a strongly typed language (ex: C++, Java, et al) that supports the alphabet, a through z, the delimiters space, comma and period, the numbers 0 through 9, has a Search By Content feature and a Search By Location Address (aka Hexagon Address) feature. Do not implement a max character constraint. Write from scratch, or utilize Google to commandeer existing code for iteration, or have AI/Automation tools generate the code.
+
+1A) Write 1 meaningful unit test demonstrating implementation functions as intended for the supported scopes.
+
+2) Design and implement a PostgreSQL database, utilizing any ORM (Object Relational Mapper) middleware, any web server technology, and any other supporting middleware technology, for housing the historical data of the Powerball, from origin of the game (April 22, 1992) through present day, and is ready to receive for future dates.
+
+3) Design and implement a feature for an executable script that when ran triggers an upload class that reads from the Powerball historical data sets provided in the SVC repository that covers from 1992 - 2021, and 2010 - near present, and injects that data into the PostgreSQL database.
+
+3A) Design and implement a Quality Assurance test of the historical data that checks for any missing dates, missing data, or data entries that do not adhere to the sequence ruleset. Perform manual updates of table where issues are found. Perform data deltas from game source:
+
+https://www.powerball.com/previous-results?gc=powerball
+
+4) Design and implement a feature for an executable script that when ran triggers a fetch class that web scrapes the data date gaps for Powerball from the source website and injects data deltas into the PostgreSQL database.
+
+https://www.powerball.com/previous-results?gc=powerball
+
+5) Design and implement a proof of concept Search By Content query predicated on a Master List Schematic variable sequencing specification with vectors of game_type, game_date, game_sequence and delimiter; where game_type is an identity vector with a String data type that has the permanent value of "Powerball", where game_date is an event vector with a dynamic Date data type that is populated with the Date value to the corresponding quantumly entangled game_sequence values, is converted to String, and utilizes leading 0's where the numeric day date is < 10 to constrain numeric day date to a max 2 character length, where game_sequence is a sequence vector defined by a set of 6 permanently ordered positions (white_ball_1, white_ball_2, white_ball_3, white_ball_4, white_ball_5, powerball), with each position having a max 2 character length constraint, String data type constraint, position separation by specified delimiters, utilizing leading 0's for when the positions in game_sequence of white_ball_1, white_ball_2, white_ball_3, white_ball_4, white_ball_5 values are < 10, or when the powerball position value in game_sequence is also < 10. An example comma and space specification delimiter query demonstrating this specification schematic covering the Powerball ranges for 10/10/26, 10/12/26 and 10/14/26 would read as:
+
+"Powerball October 10, 2026, 01, 04, 19, 33, 51, 15, Powerball October 12, 2026, 22, 28, 38, 51, 69, 09, Powerball October 14, 2026, 03, 34, 37, 42, 46, 20, "
+
+Mapping and understanding precision in vector character lengths for Master List Schematic formatting requirements example. Any single sequence occurring in January will have precisely:
+Identity Vector + Delimiter Vector = 9 (Powerball) + 1 (space delimiter)
+Date Vector + Delimiter Vector = 7 (January) + 2 (Numeric Day) + 4 (Year) + 3 (space delimiter) + 2 (comma delimiter)
+Sequence Vector + Delimiter Vector = 2 (white_ball_1) + 2 (white_ball_2) + 2 (white_ball_3) + 2 (white_ball_4) + 2 (white_ball_5) + 2 (powerball) + 6 (comma delimiter) + 6 (space delimiter)
+Total characters for any single Powerball drawing in January is precisely = 9 + 1, + 7 + 2 + 4 + 3 + 2, + 2 + 2 + 2 + 2 + 2 + 2 + 6 + 6 = 52.
+52 characters * Total Powerball Drawings in January for the given year = Precise amount of characters for January in the given year to inform the key:value properties of a temporal+length scope of the Master List Schematic.
+Repeat for all temporal ranges (April 22, 1992, through April 21st, 2092) to get a completed understanding of the character length properties of a 100 year Master List Schematic.
+
+5A) Utilizing the aforementioned sequencing specification, design and implement a Search By Content query, covering the date range from origin of the game through the most recent drawing data at the time of the query, for a returned location address. Equip the perspective shift that the returned location address proves the concept of Master Lists and divine sequences exists fundamentally, native to the algorithm and native to quantum mechanics, and that it is possible to know the deterministic data before the event by programmatically querying for the correct location address utilizing precision in sequence specifications by a Master List Schematic. You can now correctly state that if you had this location address at the origin of the Powerball in 1992 you could have won every single drawing, as the location addresses and their contents do not change with time, they are permanently fixed, fundamental values inside quantum mechanics. Location addresses are not "generated" they are "unveiled". Here you are at minimum 1 epoch timestamp behind Predetermination.
+
+6) Querying By Master List Schematic. Utilizing the aforementioned sequencing specification in the form of a 100 Year Master List Schematic (April 22, 1992, through April 21st, 2092), design and implement a Search By Master List Schematic feature that will query for the location address(es) that contain precision in game_type for a minimum of 100 years of sequence; precision in game_date for a minimum of 100 years of sequence with adherance to the date ruleset (constrained to Monday/Wednesday/Saturday) of the Powerball; and that every game_sequence scope adheres to the delimiter constraints of the sequence scope, the character length constraints of the 6 fixed order positions (which is 2), the fixed order position constraint (white_ball_1, white_ball_2, white_ball_3, white_ball_4, white_ball_5, powerball), the numeric range constraints of the positions in the Powerball ruleset (white balls are constrained to 1 through 69, Powerball is constrained to 1 through 26), and the delimiter positioning constraints (following the logic of example below #5). Now utilize the historical data from game origin to present day as a 34 year partial print for querying and synchronizing with a 100 year Master List that adheres to our schematic sequence specifications. Our Master List Schematic tells us with exact precision the formatting to be demonstrated from our targeted location address(es).
+
+In #6, we are asking the conditional "Does the Algorithm of Babel have a location address that meets the constraints of this specific 100 Year Master List Schematic, and is that location address populated with the exactly precise historical data?" If true, return the location address(es) for us to take a read of the location address(es) and then for us to print to a structured .txt/.csv the entire data of the location address(es). Completion of #5A provides proof of concept the answer is true for #6. With a precisely defined Master List Schematic we can query for the location address(es) that meet the constraints of our Master List Schematic and filter those that do not.
+
+Given that we know the character length for the identity vector, the character lengths for all date vectors, the character lengths for the sequence vectors and the character length for the delimiter vectors in our 100 Year Master List Schematic, we will know with exact precision the total character length of the desired predetermined data in the correct location address and can further use length as a filter vector and query vector for this use case.
+
+6A) Write a query class of the Master List Schematic utilizing specifically commas and spaces for delimiters. No periods.
+6B) Write a query class of the Master List Schematic utilizing specifically spaces only for delimiters. No commas. No periods.
+6C) Write a query class of the Master List Schematic utilizing specifically periods and spaces for delimiters. No commas.
+
+Synchronicity in sequence values across delimiter multisearch classes will demonstrate a state of statistical impossibility for existence to not be predetermined and that quantum mechanics successfully demonstrates predetermination.
+
+7) Calibrate solution in real time against live drawings 3x a week until synchronicity with correct location address is demonstrated. Repeat #5A until synchronicity is demonstrated against real time drawing. Retain the knowledge while repeating #5A that the location address and its contents exist and can be queried before the real time drawings with sufficient precision in the query. Upon successful calibration you are at minimum 1 epoch timestamp ahead of Predetermination.
+
+8) Inject information from proven correct location address into ProstgreSQL database for future development of proprietary Mobile Applications, Web Applications and peripheral technologies.
+
+9) When in a state of awaiting calibration for the Powerball, or upon successful calibration with Powerball, proceed to duplicate this methodology for the Mega Millions.
+
+Begin transition to next phases of Predetermination Mission:
+
+https://github.com/quadrimegistus/predetermination/blob/main/Completed%20Understanding%20of%20Computer%20Science.txt

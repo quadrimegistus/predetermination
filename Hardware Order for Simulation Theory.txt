@@ -1,0 +1,15 @@
+Hardware Order for Simulation Theory
+
+GPU		NVIDIA RTX PRO 4500 Blackwell, 32GB ECC		$3,300
+CPU		AMD Ryzen 9 9950X				~$550 (est.)
+Motherboard	ASUS ProArt X870E-Creator WiFi			$553
+Memory		64GB DDR5-6000 (2 × 32GB)			$989
+Storage		2TB PCIe Gen4 NVMe (ADATA Legend 860)		$149
+Cooler		Arctic Liquid Freezer III Pro 360		~$110 (est.)
+Power supply	1000W 80+ Gold, ATX 3.1 (Corsair RM1000x)	~$180 (est.)
+Case		Fractal Design North XL				~$180 (est.)
+Monitor		Alienware AW2725Q, 27" 4K, 240Hz, QD-OLED	$900
+Mouse		Logitech MX Master 4				$120
+Keyboard	Logitech MX Keys S				$120
+
+Total		≈ $7,150

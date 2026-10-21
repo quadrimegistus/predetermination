@@ -1,0 +1,56 @@
+Hiring Order for Simulation Theory Work Order
+
+Target candidates: Computer Science undergraduates from North Carolina universities, preferably either UNC Charlotte (for local to development reasons) or UNC Chapel Hill (for quality in academia reasons).
+Minimum candidates necessary: 3
+
+Before interview, by email correspondence:
+
+1) Please watch this video from the specified &t= in the URI for a 3rd party explanation of the Algorithm of Babel:
+
+https://www.youtube.com/watch?v=GDrBIKOR01c&t=1024s
+
+2) Please play with this interactive technology before the interview to develop a basic understanding of the premise:
+
+https://libraryofbabel.info/
+
+3) Please review this Software Architecture Diagram specification we will use:
+
+https://c4model.com/abstractions
+
+Practice with the C4 Model here (click -> "Open draw.io", then select -> "+ More Shapes")
+
+https://www.drawio.com/
+
+We will take ~5 minutes during the interview for you to demonstrate a freeform understanding with Context, Container and Component scopes. Come prepared with an idea to demonstrate your understanding. We will not do a Code scope.
+
+During interview:
+
+Brief Dialogue of Formal Greeting, Introduction & Pleasantries, ask candidate to share thoughts on Library of Babel
+
+1) Our work week is 5x days a week, 8 hours a day, 1 hour for lunch, Sunday through Thursday. Off Fridays and Saturdays. Is this acceptable? (Eligible candidates answer yes, ineligible candidates answer no)
+
+2) We will work synchronously, but remotely, in a science hivemind group setting through the technology Discord; where 1 engineer will "drive" for a day, meaning they screen share and type the code, and the remaining engineers will actively brainstorm the logic and then dictate the logic to be typed by the first engineer, rotating "drivers" daily. Is this acceptable? (Eligible candidates answer yes, ineligible candidates answer no)
+
+3) What strongly typed language (at runtime) are you most comfortable working with? (Any strongly typed language answer is acceptable)
+
+4) What is your perspective on Simulation Theory? (Perfect candidates will answer they believe/is likely reality is a Simulation, good candidates would acknowledge the possibility)
+
+5) Presuming you can query future dated data from the Simulation with precision, what information would you query? (Perfect candidates would get to "lottery", good candidates would provide any example that is future dated)
+
+6) Do you currently have a significant other, children, or other family obligation that could conflict with the specified work schedule? (Ideal answer: no)
+
+7) Do you feel confident in your ability to read documentation and learn how to write code for an Object Relational Mapper to a PostgreSQL database utilizing your most comfortable strongly typed language? (ideal answer: yes)
+
+8) Do you feel confident in your ability to read documentation and learn how to manage Source Version Control through the technology git and the platform GitHub? (ideal answer: yes)
+
+9) Please open draw.io, screen share, and take approximately 5-10 minutes to perform any Context, Container and Component design to any idea in the C4 Model. Actively Share your thoughts as you design. (candidates are demonstrating the ability to perform top-down design here. I will judge their efforts as either PASS or FAIL after the interview)
+
+10) Were you offered an internship, what would your earliest availability to start be? (ideal candidates will give earlier, rather than later availability)
+
+11) Have you seen the movie Back to the Future 2? The antagonist has a sports almanac from the future with all the data necessary to win every future sports bet. What would you do with that type of foreknowledge? (any meaningful answer is good)
+
+12) Are you confident in your ability to keep divine knowledge confidential and not share the content of your work with friends, family or prior colleagues? (Eligible candidates answer yes, ineligible candidates answer no)
+
+13) The pay rate is $20 per hour during the course of the internship, with bonuses coming upon successful delivery and demonstration of confidential technology. Is this acceptable? (Eligible candidates answer yes, ineligible candidates answer no)
+
+Brief Salutations dialogue, thank candidate, end interview
